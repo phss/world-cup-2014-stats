@@ -1,4 +1,4 @@
 world-cup-2014-stats
 ====================
 
-FIFA World Cup 2014 stats stuff
+Random stats for FIFA World Cup 2014.
