@@ -1,4 +1,4 @@
-(use '[clojure.string :only (split-lines split)])
+(use '[clojure.string :only (split-lines split capitalize)])
 
 (defn read-tabular-file [filename]
   (let [data (slurp filename)
@@ -6,13 +6,16 @@
         split-by-tab #(split % #"\t")]
     (map split-by-tab lines)))
 
+(defn nameify [s]
+  (capitalize s))
+
 (defn convert-player [country data]
-  (let []
+  (let [shirt (data 0)]
     {
-      :id (str country "_" (data 0))
-      :country country
+      :id (str country "_" shirt)
+      :country (nameify country)
       :name (data 1)
-      :shirt_number (data 0)
+      :shirt_number shirt
       :date_of_birth (data 2)
       :position (data 3)
       :club (data 4)
