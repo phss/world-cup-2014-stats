@@ -11,6 +11,10 @@
         word-names (map capitalize words)]
     (join " " word-names)))
 
+(defn iso-date [s]
+  (let [[day month year] (split s #"/")]
+    (format "%s-%s-%s" year month day)))
+
 (defn convert-player [country data]
   (let [shirt (data 0)]
     {
@@ -18,7 +22,7 @@
       :country (nameify country)
       :name (nameify (data 1))
       :shirt_number shirt
-      :date_of_birth (data 2)
+      :date_of_birth (iso-date (data 2))
       :position (data 3)
       :club (data 4)
       :height (data 5)
