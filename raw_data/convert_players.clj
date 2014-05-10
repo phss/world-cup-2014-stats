@@ -15,6 +15,8 @@
   (let [[day month year] (split s #"/")]
     (format "%s-%s-%s" year month day)))
 
+(def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
+
 (defn convert-player [country data]
   (let [shirt (data 0)]
     {
@@ -23,7 +25,7 @@
       :name (nameify (data 1))
       :shirt_number shirt
       :date_of_birth (iso-date (data 2))
-      :position (data 3)
+      :position (position (data 3))
       :club (data 4)
       :height (data 5)
     }))
