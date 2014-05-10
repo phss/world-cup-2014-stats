@@ -1,11 +1,6 @@
 (use '[clojure.string :only (split-lines split join capitalize)])
 
-(defn read-tabular-file [filename]
-  (let [data (slurp filename)
-        lines (split-lines data)
-        split-by-tab #(split % #"\t")]
-    (map split-by-tab lines)))
-
+; Conversions
 (defn nameify [s]
   (let [words (split s #" ")
         word-names (map capitalize words)]
@@ -19,6 +14,7 @@
 
 (def number read-string)
 
+; Player conversion
 (defn convert-player [country data]
   (let [shirt (number (data 0))]
     {
@@ -31,6 +27,14 @@
       :club (data 4)
       :height (number (data 5))
     }))
+
+; Reading from 
+(defn read-tabular-file [filename]
+  (let [data (slurp filename)
+        lines (split-lines data)
+        split-by-tab #(split % #"\t")]
+    (map split-by-tab lines)))
+
 
 (def raw (read-tabular-file "2010/brazil.data"))
 
