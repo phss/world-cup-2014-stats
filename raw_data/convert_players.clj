@@ -1,7 +1,12 @@
 (use '[clojure.string :only (split-lines split join capitalize)])
+(require '[clojure.data.json :as json])
 
 ; Conversions
 (def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
+
+(def country-by-code {
+  "ITA" "Italy"                      
+})
 
 (def number read-string)
 
@@ -15,8 +20,8 @@
     (format "%s-%s-%s" year month day)))
 
 (defn club [s]
-  (let [[_ club country_code] (re-find #"(\w+) \((\w+)\)" s)
-        country country_code]
+  (let [[_ club country-code] (re-find #"(\w+) \((\w+)\)" s)
+        country (country-by-code country-code)]
     { :name club, :country country }))
 
 ; Player conversion
@@ -43,5 +48,7 @@
 
 (def raw (read-tabular-file "2010/brazil.data"))
 
-(println (convert-player "brazil" (first raw)))
+(def brazil (map #(convert-player "brazil" %) raw))
+
+(println (json/write-str brazil))
 
