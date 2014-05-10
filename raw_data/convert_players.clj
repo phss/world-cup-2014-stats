@@ -1,6 +1,10 @@
 (use '[clojure.string :only (split-lines split join capitalize)])
 
 ; Conversions
+(def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
+
+(def number read-string)
+
 (defn nameify [s]
   (let [words (split s #" ")
         word-names (map capitalize words)]
@@ -10,9 +14,10 @@
   (let [[day month year] (split s #"/")]
     (format "%s-%s-%s" year month day)))
 
-(def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
-
-(def number read-string)
+(defn club [s]
+  (let [[_ club country_code] (re-find #"(\w+) \((\w+)\)" s)
+        country country_code]
+    { :name club, :country country }))
 
 ; Player conversion
 (defn convert-player [country data]
@@ -24,7 +29,7 @@
       :shirt_number shirt
       :date_of_birth (iso-date (data 2))
       :position (position (data 3))
-      :club (data 4)
+      :club (club (data 4))
       :height (number (data 5))
     }))
 
