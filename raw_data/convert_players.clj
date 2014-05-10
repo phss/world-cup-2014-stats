@@ -17,8 +17,10 @@
 
 (def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
 
+(def number read-string)
+
 (defn convert-player [country data]
-  (let [shirt (data 0)]
+  (let [shirt (number (data 0))]
     {
       :id (str country "_" shirt)
       :country (nameify country)
@@ -27,7 +29,7 @@
       :date_of_birth (iso-date (data 2))
       :position (position (data 3))
       :club (data 4)
-      :height (data 5)
+      :height (number (data 5))
     }))
 
 (def raw (read-tabular-file "2010/brazil.data"))
