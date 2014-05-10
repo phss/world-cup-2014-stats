@@ -22,7 +22,9 @@
 (defn club [s]
   (let [[_ club country-code] (re-find #"(\w+) \((\w+)\)" s)
         country (country-by-code country-code)]
-    { :name club, :country country }))
+    (if (nil? country)
+      (throw (Exception. (str "No country for " country-code)))
+      { :name club, :country country })))
 
 ; Player conversion
 (defn convert-player [country data]
