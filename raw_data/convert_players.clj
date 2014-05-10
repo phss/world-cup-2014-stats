@@ -5,7 +5,7 @@
 (def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
 
 (def country-by-code {
-  "ITA" "Italy"                      
+  "BRA" "Brazil", "ENG" "England", "ESP" "Spain", "FRA" "France", "GER" "Germany", "GRE" "Greece", "ITA" "Italy", "POR" "Portugal", "TUR" "Turkey"                      
 })
 
 (def number read-string)
