@@ -5,7 +5,7 @@
 (def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
 
 (def country-by-code {
-  "ALG" "Algeria", "ARG" "Argentina", "AUS" "Australia", "BRA" "Brazil", "BUL" "Bulgaria", "CMR" "Cameroon", "ENG" "England", "ESP" "Spain", "FRA" "France", "GER" "Germany", "GRE" "Greece", "ITA" "Italy", "JPN" "Japan", "NED" "Netherlands", "POR" "Portugal", "RUS" "Russia", "SCO" "Scotland", "SUI" "Switzerland", "TUR" "Turkey", "UAE" "United Emirates", "UNK" "Unknown"                      
+  "ALG" "Algeria", "ARG" "Argentina", "AUS" "Australia", "AUT" "Austria", "BEL" "Belgium", "BRA" "Brazil", "BUL" "Bulgaria", "CIV" "Ivory Coast", "CHI" "Chile", "CHN" "China", "CMR" "Cameroon", "COL" "Colombia", "CYP" "Cyprus", "CZE" "Czech Republic" "DEN" "Denmark", "ECU" "Ecuador", "EGY" "Egypt", "ENG" "England", "ESP" "Spain", "FRA" "France", "GER" "Germany", "GHA" "Ghana", "GRE" "Greece", "HON" "Honduras", "ISR" "Israel", "ITA" "Italy", "JPN" "Japan", "KOR" "South Korea", "KSA" "Kazakhstan", "MEX" "Mexico", "NED" "Netherlands", "NOR" "Norway", "NZL" "New Zeland", "PAR" "Paraguay", "POL" "Poland", "POR" "Portugal", "PRK" "North Korea", "QAT" "Qatar", "ROU" "Romania", "RSA" "South Africa", "RUS" "Russia", "SCO" "Scotland", "SUI" "Switzerland", "SRB" "Serbia", "SVK" "Slovakia", "SVN" "Slovenia", "SWE" "Sweden", "TUR" "Turkey", "UAE" "United Emirates", "UKR" "Ukraine", "UNK" "Unknown", "URU" "Uruguay", "USA" "United States"                      
 })
 
 (def number read-string)
