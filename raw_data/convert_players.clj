@@ -5,7 +5,7 @@
 (def position { "GK" "Goalkeeper", "DF" "Defender", "MF" "Midfielder", "FW" "Forward" })
 
 (def country-by-code {
-  "ALG" "Algeria", "BRA" "Brazil", "BUL" "Bulgaria", "ENG" "England", "ESP" "Spain", "FRA" "France", "GER" "Germany", "GRE" "Greece", "ITA" "Italy", "POR" "Portugal", "SCO" "Scotland", "TUR" "Turkey"                      
+  "ALG" "Algeria", "ARG" "Argentina", "AUS" "Australia", "BRA" "Brazil", "BUL" "Bulgaria", "CMR" "Cameroon", "ENG" "England", "ESP" "Spain", "FRA" "France", "GER" "Germany", "GRE" "Greece", "ITA" "Italy", "JPN" "Japan", "NED" "Netherlands", "POR" "Portugal", "RUS" "Russia", "SCO" "Scotland", "SUI" "Switzerland", "TUR" "Turkey", "UAE" "United Emirates", "UNK" "Unknown"                      
 })
 
 (def number read-string)
@@ -23,7 +23,7 @@
   (let [[_ club country-code] (re-find #"(\w+) \((\w+)\)" s)
         country (country-by-code country-code)]
     (if (nil? country)
-      (throw (Exception. (str "No country for " country-code)))
+      (throw (Exception. (str "No country for " s)))
       { :name club, :country country })))
 
 ; Reading from 
@@ -54,15 +54,10 @@
     (map #(convert-player country %) raw)))
 
 
-(def raw (read-tabular-file "2010/brazil.data"))
 
-(def brazil (map #(convert-player "brazil" %) raw))
+(def raw-dir (clojure.java.io/file "2010/"))
+(def raw-country-files (rest (file-seq raw-dir)))
 
-;(println (json/write-str brazil))
+(doseq [country-file raw-country-files]
+  (println (convert-country country-file)))
 
-(def directory (clojure.java.io/file "2010/"))
-(def files (rest (file-seq directory)))
-(def file (first files))
-(def filename (. file getName))
-
-(println (convert-country file))
