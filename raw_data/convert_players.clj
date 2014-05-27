@@ -58,6 +58,6 @@
 (def raw-dir (clojure.java.io/file "2010/"))
 (def raw-country-files (rest (file-seq raw-dir)))
 
-(doseq [country-file raw-country-files]
-  (println (convert-country country-file)))
+(def players (mapcat convert-country raw-country-files))
 
+(println (count players))
