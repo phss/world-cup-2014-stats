@@ -1,0 +1,8833 @@
+[{
+	"id": "algeria_1",
+	"country": "Algeria",
+	"name": "Lounes Gaouaoui",
+	"shirt_number": 1,
+	"date_of_birth": "1977-09-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Chlef",
+		"country": "Algeria"
+	},
+	"height": 188
+}, {
+	"id": "algeria_2",
+	"country": "Algeria",
+	"name": "Madjid Bougherra",
+	"shirt_number": 2,
+	"date_of_birth": "1982-10-07",
+	"position": "Defender",
+	"club": {
+		"name": "Rangers",
+		"country": "Scotland"
+	},
+	"height": 190
+}, {
+	"id": "algeria_3",
+	"country": "Algeria",
+	"name": "Nadir Belhadj",
+	"shirt_number": 3,
+	"date_of_birth": "1982-06-18",
+	"position": "Defender",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "algeria_4",
+	"country": "Algeria",
+	"name": "Anther Yahia",
+	"shirt_number": 4,
+	"date_of_birth": "1982-03-21",
+	"position": "Defender",
+	"club": {
+		"name": "Bochum",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "algeria_5",
+	"country": "Algeria",
+	"name": "Rafik Halliche",
+	"shirt_number": 5,
+	"date_of_birth": "1986-09-02",
+	"position": "Defender",
+	"club": {
+		"name": "Madeira",
+		"country": "Portugal"
+	},
+	"height": 187
+}, {
+	"id": "algeria_6",
+	"country": "Algeria",
+	"name": "Yazid Mansouri",
+	"shirt_number": 6,
+	"date_of_birth": "1978-02-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lorient",
+		"country": "France"
+	},
+	"height": 175
+}, {
+	"id": "algeria_7",
+	"country": "Algeria",
+	"name": "Ryad Boudebouz",
+	"shirt_number": 7,
+	"date_of_birth": "1990-02-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sochaux",
+		"country": "France"
+	},
+	"height": 178
+}, {
+	"id": "algeria_8",
+	"country": "Algeria",
+	"name": "Medhi Lacen",
+	"shirt_number": 8,
+	"date_of_birth": "1984-03-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Santander",
+		"country": "Spain"
+	},
+	"height": 178
+}, {
+	"id": "algeria_9",
+	"country": "Algeria",
+	"name": "Abdelkader Ghezzal",
+	"shirt_number": 9,
+	"date_of_birth": "1984-12-05",
+	"position": "Forward",
+	"club": {
+		"name": "Siena",
+		"country": "Italy"
+	},
+	"height": 186
+}, {
+	"id": "algeria_10",
+	"country": "Algeria",
+	"name": "Rafik Saifi",
+	"shirt_number": 10,
+	"date_of_birth": "1975-02-07",
+	"position": "Forward",
+	"club": {
+		"name": "Istres",
+		"country": "France"
+	},
+	"height": 178
+}, {
+	"id": "algeria_11",
+	"country": "Algeria",
+	"name": "Rafik Djebbour",
+	"shirt_number": 11,
+	"date_of_birth": "1984-03-08",
+	"position": "Forward",
+	"club": {
+		"name": "Athens",
+		"country": "Greece"
+	},
+	"height": 185
+}, {
+	"id": "algeria_12",
+	"country": "Algeria",
+	"name": "Habib Bellaid",
+	"shirt_number": 12,
+	"date_of_birth": "1986-03-28",
+	"position": "Defender",
+	"club": {
+		"name": "Boulogne",
+		"country": "France"
+	},
+	"height": 189
+}, {
+	"id": "algeria_13",
+	"country": "Algeria",
+	"name": "Karim Matmour",
+	"shirt_number": 13,
+	"date_of_birth": "1985-06-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Moenchengladbach",
+		"country": "Germany"
+	},
+	"height": 181
+}, {
+	"id": "algeria_14",
+	"country": "Algeria",
+	"name": "Abdelkader Laifaoui",
+	"shirt_number": 14,
+	"date_of_birth": "1981-07-29",
+	"position": "Defender",
+	"club": {
+		"name": "Setif",
+		"country": "Algeria"
+	},
+	"height": 177
+}, {
+	"id": "algeria_15",
+	"country": "Algeria",
+	"name": "Karim Ziani",
+	"shirt_number": 15,
+	"date_of_birth": "1982-08-17",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 168
+}, {
+	"id": "algeria_16",
+	"country": "Algeria",
+	"name": "Faouzi Chaouchi",
+	"shirt_number": 16,
+	"date_of_birth": "1984-12-05",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Setif",
+		"country": "Algeria"
+	},
+	"height": 180
+}, {
+	"id": "algeria_17",
+	"country": "Algeria",
+	"name": "Adlane Guedioura",
+	"shirt_number": 17,
+	"date_of_birth": "1985-11-12",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolverhampton",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "algeria_18",
+	"country": "Algeria",
+	"name": "Carl Medjani",
+	"shirt_number": 18,
+	"date_of_birth": "1985-05-15",
+	"position": "Defender",
+	"club": {
+		"name": "Ajaccio",
+		"country": "France"
+	},
+	"height": 184
+}, {
+	"id": "algeria_19",
+	"country": "Algeria",
+	"name": "Hassan Yebda",
+	"shirt_number": 19,
+	"date_of_birth": "1984-05-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "algeria_20",
+	"country": "Algeria",
+	"name": "Djamel Mesbah",
+	"shirt_number": 20,
+	"date_of_birth": "1984-10-09",
+	"position": "Defender",
+	"club": {
+		"name": "Lecce",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "algeria_21",
+	"country": "Algeria",
+	"name": "Foued Kadir",
+	"shirt_number": 21,
+	"date_of_birth": "1983-12-05",
+	"position": "Midfielder",
+	"club": {
+		"name": "Valenciennes",
+		"country": "France"
+	},
+	"height": 180
+}, {
+	"id": "algeria_22",
+	"country": "Algeria",
+	"name": "Djamal Abdoun",
+	"shirt_number": 22,
+	"date_of_birth": "1986-02-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Nantes",
+		"country": "France"
+	},
+	"height": 180
+}, {
+	"id": "algeria_23",
+	"country": "Algeria",
+	"name": "Rais M Bolhi",
+	"shirt_number": 23,
+	"date_of_birth": "1986-04-25",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Sofia",
+		"country": "Bulgaria"
+	},
+	"height": 190
+}, {
+	"id": "argentina_1",
+	"country": "Argentina",
+	"name": "Diego Pozo",
+	"shirt_number": 1,
+	"date_of_birth": "1978-02-16",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Colon",
+		"country": "Argentina"
+	},
+	"height": 183
+}, {
+	"id": "argentina_2",
+	"country": "Argentina",
+	"name": "Martin Demichelis",
+	"shirt_number": 2,
+	"date_of_birth": "1980-12-20",
+	"position": "Defender",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 184
+}, {
+	"id": "argentina_3",
+	"country": "Argentina",
+	"name": "Clemente Rodriguez",
+	"shirt_number": 3,
+	"date_of_birth": "1981-07-31",
+	"position": "Defender",
+	"club": {
+		"name": "Plata",
+		"country": "Argentina"
+	},
+	"height": 166
+}, {
+	"id": "argentina_4",
+	"country": "Argentina",
+	"name": "Nicolas Burdisso",
+	"shirt_number": 4,
+	"date_of_birth": "1981-04-12",
+	"position": "Defender",
+	"club": {
+		"name": "Roma",
+		"country": "Italy"
+	},
+	"height": 174
+}, {
+	"id": "argentina_5",
+	"country": "Argentina",
+	"name": "Mario Bolatti",
+	"shirt_number": 5,
+	"date_of_birth": "1985-02-17",
+	"position": "Midfielder",
+	"club": {
+		"name": "Fiorentina",
+		"country": "Italy"
+	},
+	"height": 189
+}, {
+	"id": "argentina_6",
+	"country": "Argentina",
+	"name": "Gabriel Heinze",
+	"shirt_number": 6,
+	"date_of_birth": "1978-04-19",
+	"position": "Defender",
+	"club": {
+		"name": "Marseille",
+		"country": "France"
+	},
+	"height": 178
+}, {
+	"id": "argentina_7",
+	"country": "Argentina",
+	"name": "Angel Di Maria",
+	"shirt_number": 7,
+	"date_of_birth": "1988-02-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 180
+}, {
+	"id": "argentina_8",
+	"country": "Argentina",
+	"name": "Juan Veron",
+	"shirt_number": 8,
+	"date_of_birth": "1975-03-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Plata",
+		"country": "Argentina"
+	},
+	"height": 183
+}, {
+	"id": "argentina_9",
+	"country": "Argentina",
+	"name": "Gonzalo Higuain",
+	"shirt_number": 9,
+	"date_of_birth": "1987-12-10",
+	"position": "Forward",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 182
+}, {
+	"id": "argentina_10",
+	"country": "Argentina",
+	"name": "Lionel Messi",
+	"shirt_number": 10,
+	"date_of_birth": "1987-06-24",
+	"position": "Forward",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "argentina_11",
+	"country": "Argentina",
+	"name": "Carlos Tevez",
+	"shirt_number": 11,
+	"date_of_birth": "1984-02-05",
+	"position": "Forward",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 173
+}, {
+	"id": "argentina_12",
+	"country": "Argentina",
+	"name": "Ariel Garce",
+	"shirt_number": 12,
+	"date_of_birth": "1979-07-14",
+	"position": "Defender",
+	"club": {
+		"name": "Colon",
+		"country": "Argentina"
+	},
+	"height": 175
+}, {
+	"id": "argentina_13",
+	"country": "Argentina",
+	"name": "Walter Samuel",
+	"shirt_number": 13,
+	"date_of_birth": "1978-03-23",
+	"position": "Defender",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 182
+}, {
+	"id": "argentina_14",
+	"country": "Argentina",
+	"name": "Javier Mascherano",
+	"shirt_number": 14,
+	"date_of_birth": "1984-06-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 171
+}, {
+	"id": "argentina_15",
+	"country": "Argentina",
+	"name": "Nicolas Otamendi",
+	"shirt_number": 15,
+	"date_of_birth": "1988-02-12",
+	"position": "Defender",
+	"club": {
+		"name": "Sarsfield",
+		"country": "Argentina"
+	},
+	"height": 171
+}, {
+	"id": "argentina_16",
+	"country": "Argentina",
+	"name": "Sergio Aguero",
+	"shirt_number": 16,
+	"date_of_birth": "1988-06-02",
+	"position": "Forward",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "argentina_17",
+	"country": "Argentina",
+	"name": "Jonas Gutierrez",
+	"shirt_number": 17,
+	"date_of_birth": "1983-07-05",
+	"position": "Midfielder",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "argentina_18",
+	"country": "Argentina",
+	"name": "Martin Palermo",
+	"shirt_number": 18,
+	"date_of_birth": "1973-11-07",
+	"position": "Forward",
+	"club": {
+		"name": "Juniors",
+		"country": "Argentina"
+	},
+	"height": 188
+}, {
+	"id": "argentina_19",
+	"country": "Argentina",
+	"name": "Diego Milito",
+	"shirt_number": 19,
+	"date_of_birth": "1979-06-12",
+	"position": "Forward",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "argentina_20",
+	"country": "Argentina",
+	"name": "Maxi Rodriguez",
+	"shirt_number": 20,
+	"date_of_birth": "1981-01-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 173
+}, {
+	"id": "argentina_21",
+	"country": "Argentina",
+	"name": "Mariano Andujar",
+	"shirt_number": 21,
+	"date_of_birth": "1983-07-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Catania",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "argentina_22",
+	"country": "Argentina",
+	"name": "Sergio Romero",
+	"shirt_number": 22,
+	"date_of_birth": "1987-02-22",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Alkmaar",
+		"country": "Netherlands"
+	},
+	"height": 191
+}, {
+	"id": "argentina_23",
+	"country": "Argentina",
+	"name": "Javier Pastore",
+	"shirt_number": 23,
+	"date_of_birth": "1989-06-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Palermo",
+		"country": "Italy"
+	},
+	"height": 173
+}, {
+	"id": "australia_1",
+	"country": "Australia",
+	"name": "Mark Schwarzer",
+	"shirt_number": 1,
+	"date_of_birth": "1972-10-06",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Fulham",
+		"country": "England"
+	},
+	"height": 196
+}, {
+	"id": "australia_2",
+	"country": "Australia",
+	"name": "Lucas Neill",
+	"shirt_number": 2,
+	"date_of_birth": "1978-03-09",
+	"position": "Defender",
+	"club": {
+		"name": "Galatasaray",
+		"country": "Turkey"
+	},
+	"height": 185
+}, {
+	"id": "australia_3",
+	"country": "Australia",
+	"name": "Craig Moore",
+	"shirt_number": 3,
+	"date_of_birth": "1975-12-12",
+	"position": "Defender",
+	"club": {
+		"name": "affiliation",
+		"country": "Unknown"
+	},
+	"height": 186
+}, {
+	"id": "australia_4",
+	"country": "Australia",
+	"name": "Tim Cahill",
+	"shirt_number": 4,
+	"date_of_birth": "1979-12-06",
+	"position": "Forward",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "australia_5",
+	"country": "Australia",
+	"name": "Jason Culina",
+	"shirt_number": 5,
+	"date_of_birth": "1980-08-05",
+	"position": "Midfielder",
+	"club": {
+		"name": "United",
+		"country": "Australia"
+	},
+	"height": 175
+}, {
+	"id": "australia_6",
+	"country": "Australia",
+	"name": "Michael Beauchamp",
+	"shirt_number": 6,
+	"date_of_birth": "1981-03-08",
+	"position": "Defender",
+	"club": {
+		"name": "Jazira",
+		"country": "United Emirates"
+	},
+	"height": 191
+}, {
+	"id": "australia_7",
+	"country": "Australia",
+	"name": "Brett Emerton",
+	"shirt_number": 7,
+	"date_of_birth": "1979-02-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rovers",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "australia_8",
+	"country": "Australia",
+	"name": "Luke Wilkshire",
+	"shirt_number": 8,
+	"date_of_birth": "1981-10-02",
+	"position": "Defender",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 177
+}, {
+	"id": "australia_9",
+	"country": "Australia",
+	"name": "Joshua Kennedy",
+	"shirt_number": 9,
+	"date_of_birth": "1982-08-20",
+	"position": "Forward",
+	"club": {
+		"name": "Eight",
+		"country": "Japan"
+	},
+	"height": 192
+}, {
+	"id": "australia_10",
+	"country": "Australia",
+	"name": "Harry Kewell",
+	"shirt_number": 10,
+	"date_of_birth": "1978-09-22",
+	"position": "Forward",
+	"club": {
+		"name": "Galatasaray",
+		"country": "Turkey"
+	},
+	"height": 183
+}, {
+	"id": "australia_11",
+	"country": "Australia",
+	"name": "Scott Chipperfield",
+	"shirt_number": 11,
+	"date_of_birth": "1975-12-30",
+	"position": "Defender",
+	"club": {
+		"name": "Basel",
+		"country": "Switzerland"
+	},
+	"height": 180
+}, {
+	"id": "australia_12",
+	"country": "Australia",
+	"name": "Adam Federici",
+	"shirt_number": 12,
+	"date_of_birth": "1985-01-31",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Reading",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "australia_13",
+	"country": "Australia",
+	"name": "Vince Grella",
+	"shirt_number": 13,
+	"date_of_birth": "1979-10-05",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rovers",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "australia_14",
+	"country": "Australia",
+	"name": "Brett Holman",
+	"shirt_number": 14,
+	"date_of_birth": "1984-03-27",
+	"position": "Forward",
+	"club": {
+		"name": "Alkmaar",
+		"country": "Netherlands"
+	},
+	"height": 176
+}, {
+	"id": "australia_15",
+	"country": "Australia",
+	"name": "Mile Jedinak",
+	"shirt_number": 15,
+	"date_of_birth": "1984-08-03",
+	"position": "Midfielder",
+	"club": {
+		"name": "Antalyaspor",
+		"country": "Turkey"
+	},
+	"height": 188
+}, {
+	"id": "australia_16",
+	"country": "Australia",
+	"name": "Carl Valeri",
+	"shirt_number": 16,
+	"date_of_birth": "1984-08-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sassuolo",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "australia_17",
+	"country": "Australia",
+	"name": "Nikita Rukavytsya",
+	"shirt_number": 17,
+	"date_of_birth": "1987-06-22",
+	"position": "Forward",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 183
+}, {
+	"id": "australia_18",
+	"country": "Australia",
+	"name": "Eugene Galekovic",
+	"shirt_number": 18,
+	"date_of_birth": "1981-06-12",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Utd",
+		"country": "Australia"
+	},
+	"height": 186
+}, {
+	"id": "australia_19",
+	"country": "Australia",
+	"name": "Richard Garcia",
+	"shirt_number": 19,
+	"date_of_birth": "1981-09-04",
+	"position": "Forward",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "australia_20",
+	"country": "Australia",
+	"name": "Mark Milligan",
+	"shirt_number": 20,
+	"date_of_birth": "1985-08-04",
+	"position": "Defender",
+	"club": {
+		"name": "Ichihara",
+		"country": "Japan"
+	},
+	"height": 178
+}, {
+	"id": "australia_21",
+	"country": "Australia",
+	"name": "David Carney",
+	"shirt_number": 21,
+	"date_of_birth": "1983-11-30",
+	"position": "Defender",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 181
+}, {
+	"id": "australia_22",
+	"country": "Australia",
+	"name": "Dario Vidosic",
+	"shirt_number": 22,
+	"date_of_birth": "1987-04-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Duisburg",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "australia_23",
+	"country": "Australia",
+	"name": "Marco Bresciano",
+	"shirt_number": 23,
+	"date_of_birth": "1980-02-11",
+	"position": "Forward",
+	"club": {
+		"name": "Palermo",
+		"country": "Italy"
+	},
+	"height": 182
+}, {
+	"id": "brazil_1",
+	"country": "Brazil",
+	"name": "Julio Cesar",
+	"shirt_number": 1,
+	"date_of_birth": "1979-09-03",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 186
+}, {
+	"id": "brazil_2",
+	"country": "Brazil",
+	"name": "Maicon",
+	"shirt_number": 2,
+	"date_of_birth": "1981-07-26",
+	"position": "Defender",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 186
+}, {
+	"id": "brazil_3",
+	"country": "Brazil",
+	"name": "Lucio",
+	"shirt_number": 3,
+	"date_of_birth": "1978-05-08",
+	"position": "Defender",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 188
+}, {
+	"id": "brazil_4",
+	"country": "Brazil",
+	"name": "Juan",
+	"shirt_number": 4,
+	"date_of_birth": "1979-02-01",
+	"position": "Defender",
+	"club": {
+		"name": "Roma",
+		"country": "Italy"
+	},
+	"height": 182
+}, {
+	"id": "brazil_5",
+	"country": "Brazil",
+	"name": "Felipe Melo",
+	"shirt_number": 5,
+	"date_of_birth": "1983-06-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 183
+}, {
+	"id": "brazil_6",
+	"country": "Brazil",
+	"name": "Michel Bastos",
+	"shirt_number": 6,
+	"date_of_birth": "1983-08-02",
+	"position": "Defender",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 179
+}, {
+	"id": "brazil_7",
+	"country": "Brazil",
+	"name": "Elano",
+	"shirt_number": 7,
+	"date_of_birth": "1981-06-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Galatasaray",
+		"country": "Turkey"
+	},
+	"height": 174
+}, {
+	"id": "brazil_8",
+	"country": "Brazil",
+	"name": "Gilberto Silva",
+	"shirt_number": 8,
+	"date_of_birth": "1976-10-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 184
+}, {
+	"id": "brazil_9",
+	"country": "Brazil",
+	"name": "Luis Fabiano",
+	"shirt_number": 9,
+	"date_of_birth": "1980-11-08",
+	"position": "Forward",
+	"club": {
+		"name": "FC",
+		"country": "Spain"
+	},
+	"height": 186
+}, {
+	"id": "brazil_10",
+	"country": "Brazil",
+	"name": "Kaka",
+	"shirt_number": 10,
+	"date_of_birth": "1982-04-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 186
+}, {
+	"id": "brazil_11",
+	"country": "Brazil",
+	"name": "Robinho",
+	"shirt_number": 11,
+	"date_of_birth": "1984-01-25",
+	"position": "Forward",
+	"club": {
+		"name": "Santos",
+		"country": "Brazil"
+	},
+	"height": 175
+}, {
+	"id": "brazil_12",
+	"country": "Brazil",
+	"name": "Gomes",
+	"shirt_number": 12,
+	"date_of_birth": "1981-02-15",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "brazil_13",
+	"country": "Brazil",
+	"name": "Dani Alves",
+	"shirt_number": 13,
+	"date_of_birth": "1983-05-06",
+	"position": "Defender",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 173
+}, {
+	"id": "brazil_14",
+	"country": "Brazil",
+	"name": "Luisao",
+	"shirt_number": 14,
+	"date_of_birth": "1981-02-13",
+	"position": "Defender",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 193
+}, {
+	"id": "brazil_15",
+	"country": "Brazil",
+	"name": "Thiago Silva",
+	"shirt_number": 15,
+	"date_of_birth": "1984-09-22",
+	"position": "Defender",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 183
+}, {
+	"id": "brazil_16",
+	"country": "Brazil",
+	"name": "Gilberto Melo",
+	"shirt_number": 16,
+	"date_of_birth": "1976-04-25",
+	"position": "Defender",
+	"club": {
+		"name": "Cruzeiro",
+		"country": "Brazil"
+	},
+	"height": 180
+}, {
+	"id": "brazil_17",
+	"country": "Brazil",
+	"name": "Josue",
+	"shirt_number": 17,
+	"date_of_birth": "1979-07-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 169
+}, {
+	"id": "brazil_18",
+	"country": "Brazil",
+	"name": "Ramires",
+	"shirt_number": 18,
+	"date_of_birth": "1987-03-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 179
+}, {
+	"id": "brazil_19",
+	"country": "Brazil",
+	"name": "Julio Baptista",
+	"shirt_number": 19,
+	"date_of_birth": "1981-10-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Roma",
+		"country": "Italy"
+	},
+	"height": 185
+}, {
+	"id": "brazil_20",
+	"country": "Brazil",
+	"name": "Kleberson",
+	"shirt_number": 20,
+	"date_of_birth": "1979-06-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Flamengo",
+		"country": "Brazil"
+	},
+	"height": 175
+}, {
+	"id": "brazil_21",
+	"country": "Brazil",
+	"name": "Nilmar",
+	"shirt_number": 21,
+	"date_of_birth": "1984-07-14",
+	"position": "Forward",
+	"club": {
+		"name": "Villarreal",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "brazil_22",
+	"country": "Brazil",
+	"name": "Doni",
+	"shirt_number": 22,
+	"date_of_birth": "1979-10-22",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Roma",
+		"country": "Italy"
+	},
+	"height": 194
+}, {
+	"id": "brazil_23",
+	"country": "Brazil",
+	"name": "Grafite",
+	"shirt_number": 23,
+	"date_of_birth": "1979-04-02",
+	"position": "Forward",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 189
+}, {
+	"id": "cameroon_1",
+	"country": "Cameroon",
+	"name": "Idriss Kameni",
+	"shirt_number": 1,
+	"date_of_birth": "1984-02-18",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Espanyol",
+		"country": "Spain"
+	},
+	"height": 185
+}, {
+	"id": "cameroon_2",
+	"country": "Cameroon",
+	"name": "Benoit Assou-ekotto",
+	"shirt_number": 2,
+	"date_of_birth": "1984-03-24",
+	"position": "Defender",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "cameroon_3",
+	"country": "Cameroon",
+	"name": "Nicolas Nkoulou",
+	"shirt_number": 3,
+	"date_of_birth": "1990-03-27",
+	"position": "Defender",
+	"club": {
+		"name": "Monaco",
+		"country": "France"
+	},
+	"height": 185
+}, {
+	"id": "cameroon_4",
+	"country": "Cameroon",
+	"name": "Rigobert Song",
+	"shirt_number": 4,
+	"date_of_birth": "1976-07-01",
+	"position": "Defender",
+	"club": {
+		"name": "Trabzonspor",
+		"country": "Turkey"
+	},
+	"height": 185
+}, {
+	"id": "cameroon_5",
+	"country": "Cameroon",
+	"name": "Sebastien Bassong",
+	"shirt_number": 5,
+	"date_of_birth": "1986-07-09",
+	"position": "Defender",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "cameroon_6",
+	"country": "Cameroon",
+	"name": "Alexandre Song",
+	"shirt_number": 6,
+	"date_of_birth": "1987-09-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "cameroon_7",
+	"country": "Cameroon",
+	"name": "Landry Nguemo",
+	"shirt_number": 7,
+	"date_of_birth": "1985-11-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Celtic",
+		"country": "Scotland"
+	},
+	"height": 172
+}, {
+	"id": "cameroon_8",
+	"country": "Cameroon",
+	"name": "Geremi",
+	"shirt_number": 8,
+	"date_of_birth": "1978-12-20",
+	"position": "Defender",
+	"club": {
+		"name": "Ankaragucu",
+		"country": "Turkey"
+	},
+	"height": 177
+}, {
+	"id": "cameroon_9",
+	"country": "Cameroon",
+	"name": "Samuel Etoo",
+	"shirt_number": 9,
+	"date_of_birth": "1981-03-10",
+	"position": "Forward",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 178
+}, {
+	"id": "cameroon_10",
+	"country": "Cameroon",
+	"name": "Achille Emana",
+	"shirt_number": 10,
+	"date_of_birth": "1982-06-05",
+	"position": "Forward",
+	"club": {
+		"name": "Sevilla",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "cameroon_11",
+	"country": "Cameroon",
+	"name": "Jean Makoun",
+	"shirt_number": 11,
+	"date_of_birth": "1983-05-29",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 170
+}, {
+	"id": "cameroon_12",
+	"country": "Cameroon",
+	"name": "Gaetan Bong",
+	"shirt_number": 12,
+	"date_of_birth": "1988-04-25",
+	"position": "Defender",
+	"club": {
+		"name": "Valenciennes",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "cameroon_13",
+	"country": "Cameroon",
+	"name": "Eric Choupo Moting",
+	"shirt_number": 13,
+	"date_of_birth": "1989-03-23",
+	"position": "Forward",
+	"club": {
+		"name": "Nuremberg",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "cameroon_14",
+	"country": "Cameroon",
+	"name": "Aurelien Chedjou",
+	"shirt_number": 14,
+	"date_of_birth": "1985-06-20",
+	"position": "Defender",
+	"club": {
+		"name": "Lille",
+		"country": "France"
+	},
+	"height": 185
+}, {
+	"id": "cameroon_15",
+	"country": "Cameroon",
+	"name": "Pierre Webo",
+	"shirt_number": 15,
+	"date_of_birth": "1982-01-20",
+	"position": "Forward",
+	"club": {
+		"name": "Mallorca",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "cameroon_16",
+	"country": "Cameroon",
+	"name": "Hamidou Souleymanou",
+	"shirt_number": 16,
+	"date_of_birth": "1973-11-22",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Kayserispor",
+		"country": "Turkey"
+	},
+	"height": 187
+}, {
+	"id": "cameroon_17",
+	"country": "Cameroon",
+	"name": "Mohamadou Idrissou",
+	"shirt_number": 17,
+	"date_of_birth": "1980-03-08",
+	"position": "Forward",
+	"club": {
+		"name": "Freiburg",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "cameroon_18",
+	"country": "Cameroon",
+	"name": "Eyong Enoh",
+	"shirt_number": 18,
+	"date_of_birth": "1986-03-23",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 180
+}, {
+	"id": "cameroon_19",
+	"country": "Cameroon",
+	"name": "Stephane Mbia",
+	"shirt_number": 19,
+	"date_of_birth": "1986-05-20",
+	"position": "Defender",
+	"club": {
+		"name": "Marseille",
+		"country": "France"
+	},
+	"height": 190
+}, {
+	"id": "cameroon_20",
+	"country": "Cameroon",
+	"name": "Georges Mandjeck",
+	"shirt_number": 20,
+	"date_of_birth": "1988-12-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Kaiserslautern",
+		"country": "Germany"
+	},
+	"height": 181
+}, {
+	"id": "cameroon_21",
+	"country": "Cameroon",
+	"name": "Joel Matip",
+	"shirt_number": 21,
+	"date_of_birth": "1991-08-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "04",
+		"country": "Germany"
+	},
+	"height": 194
+}, {
+	"id": "cameroon_22",
+	"country": "Cameroon",
+	"name": "Guy Ndy",
+	"shirt_number": 22,
+	"date_of_birth": "1986-02-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Valenciennes",
+		"country": "France"
+	},
+	"height": 185
+}, {
+	"id": "cameroon_23",
+	"country": "Cameroon",
+	"name": "Vincent Aboubakar",
+	"shirt_number": 23,
+	"date_of_birth": "1992-01-22",
+	"position": "Forward",
+	"club": {
+		"name": "Sport",
+		"country": "Cameroon"
+	},
+	"height": 180
+}, {
+	"id": "chile_1",
+	"country": "Chile",
+	"name": "Claudio Bravo",
+	"shirt_number": 1,
+	"date_of_birth": "1983-04-13",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Sociedad",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "chile_2",
+	"country": "Chile",
+	"name": "Ismael Fuentes",
+	"shirt_number": 2,
+	"date_of_birth": "1981-08-04",
+	"position": "Defender",
+	"club": {
+		"name": "Catolica",
+		"country": "Chile"
+	},
+	"height": 181
+}, {
+	"id": "chile_3",
+	"country": "Chile",
+	"name": "Waldo Ponce",
+	"shirt_number": 3,
+	"date_of_birth": "1982-12-04",
+	"position": "Defender",
+	"club": {
+		"name": "Catolica",
+		"country": "Chile"
+	},
+	"height": 183
+}, {
+	"id": "chile_4",
+	"country": "Chile",
+	"name": "Mauricio Isla",
+	"shirt_number": 4,
+	"date_of_birth": "1988-06-12",
+	"position": "Defender",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "chile_5",
+	"country": "Chile",
+	"name": "Pablo Contreras",
+	"shirt_number": 5,
+	"date_of_birth": "1978-09-11",
+	"position": "Defender",
+	"club": {
+		"name": "PAOK",
+		"country": "Greece"
+	},
+	"height": 178
+}, {
+	"id": "chile_6",
+	"country": "Chile",
+	"name": "Carlos Carmona",
+	"shirt_number": 6,
+	"date_of_birth": "1987-02-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Reggina",
+		"country": "Italy"
+	},
+	"height": 179
+}, {
+	"id": "chile_7",
+	"country": "Chile",
+	"name": "Alexis Sanchez",
+	"shirt_number": 7,
+	"date_of_birth": "1988-12-19",
+	"position": "Forward",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 168
+}, {
+	"id": "chile_8",
+	"country": "Chile",
+	"name": "Arturo Vidal",
+	"shirt_number": 8,
+	"date_of_birth": "1987-05-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "chile_9",
+	"country": "Chile",
+	"name": "Humberto Suazo",
+	"shirt_number": 9,
+	"date_of_birth": "1981-05-10",
+	"position": "Forward",
+	"club": {
+		"name": "Zaragoza",
+		"country": "Spain"
+	},
+	"height": 171
+}, {
+	"id": "chile_10",
+	"country": "Chile",
+	"name": "Jorge Valdivia",
+	"shirt_number": 10,
+	"date_of_birth": "1983-10-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ain",
+		"country": "United Emirates"
+	},
+	"height": 173
+}, {
+	"id": "chile_11",
+	"country": "Chile",
+	"name": "Mark Gonzalez",
+	"shirt_number": 11,
+	"date_of_birth": "1984-07-10",
+	"position": "Forward",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 175
+}, {
+	"id": "chile_12",
+	"country": "Chile",
+	"name": "Miguel Pinto",
+	"shirt_number": 12,
+	"date_of_birth": "1983-07-04",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Chile",
+		"country": "Chile"
+	},
+	"height": 180
+}, {
+	"id": "chile_13",
+	"country": "Chile",
+	"name": "Marco Estrada",
+	"shirt_number": 13,
+	"date_of_birth": "1983-05-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chile",
+		"country": "Chile"
+	},
+	"height": 174
+}, {
+	"id": "chile_14",
+	"country": "Chile",
+	"name": "Matias Fernandez",
+	"shirt_number": 14,
+	"date_of_birth": "1986-05-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lisbon",
+		"country": "Portugal"
+	},
+	"height": 176
+}, {
+	"id": "chile_15",
+	"country": "Chile",
+	"name": "Jean Beausejour",
+	"shirt_number": 15,
+	"date_of_birth": "1984-06-01",
+	"position": "Forward",
+	"club": {
+		"name": "America",
+		"country": "Mexico"
+	},
+	"height": 178
+}, {
+	"id": "chile_16",
+	"country": "Chile",
+	"name": "Fabian Orellana",
+	"shirt_number": 16,
+	"date_of_birth": "1986-01-27",
+	"position": "Forward",
+	"club": {
+		"name": "Xerez",
+		"country": "Spain"
+	},
+	"height": 168
+}, {
+	"id": "chile_17",
+	"country": "Chile",
+	"name": "Gary Medel",
+	"shirt_number": 17,
+	"date_of_birth": "1987-08-03",
+	"position": "Defender",
+	"club": {
+		"name": "Juniors",
+		"country": "Argentina"
+	},
+	"height": 171
+}, {
+	"id": "chile_18",
+	"country": "Chile",
+	"name": "Gonzalo Jara",
+	"shirt_number": 18,
+	"date_of_birth": "1985-08-29",
+	"position": "Defender",
+	"club": {
+		"name": "Albion",
+		"country": "England"
+	},
+	"height": 177
+}, {
+	"id": "chile_19",
+	"country": "Chile",
+	"name": "Gonzalo Fierro",
+	"shirt_number": 19,
+	"date_of_birth": "1983-03-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Flamengo",
+		"country": "Brazil"
+	},
+	"height": 171
+}, {
+	"id": "chile_20",
+	"country": "Chile",
+	"name": "Rodrigo Millar",
+	"shirt_number": 20,
+	"date_of_birth": "1981-11-03",
+	"position": "Midfielder",
+	"club": {
+		"name": "Colo",
+		"country": "Chile"
+	},
+	"height": 182
+}, {
+	"id": "chile_21",
+	"country": "Chile",
+	"name": "Rodrigo Tello",
+	"shirt_number": 21,
+	"date_of_birth": "1979-10-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Besiktas",
+		"country": "Turkey"
+	},
+	"height": 171
+}, {
+	"id": "chile_22",
+	"country": "Chile",
+	"name": "Esteban Paredes",
+	"shirt_number": 22,
+	"date_of_birth": "1980-08-01",
+	"position": "Forward",
+	"club": {
+		"name": "Colo",
+		"country": "Chile"
+	},
+	"height": 179
+}, {
+	"id": "chile_23",
+	"country": "Chile",
+	"name": "Luis Marin",
+	"shirt_number": 23,
+	"date_of_birth": "1983-05-18",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Espanola",
+		"country": "Chile"
+	},
+	"height": 186
+}, {
+	"id": "denmark_1",
+	"country": "Denmark",
+	"name": "Thomas Sorensen",
+	"shirt_number": 1,
+	"date_of_birth": "1976-06-12",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "denmark_2",
+	"country": "Denmark",
+	"name": "Christian Poulsen",
+	"shirt_number": 2,
+	"date_of_birth": "1980-02-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 182
+}, {
+	"id": "denmark_3",
+	"country": "Denmark",
+	"name": "Simon Kjaer",
+	"shirt_number": 3,
+	"date_of_birth": "1989-03-26",
+	"position": "Defender",
+	"club": {
+		"name": "Palermo",
+		"country": "Italy"
+	},
+	"height": 191
+}, {
+	"id": "denmark_4",
+	"country": "Denmark",
+	"name": "Daniel Agger",
+	"shirt_number": 4,
+	"date_of_birth": "1984-12-12",
+	"position": "Defender",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "denmark_5",
+	"country": "Denmark",
+	"name": "William Kvist",
+	"shirt_number": 5,
+	"date_of_birth": "1985-02-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Copenhagen",
+		"country": "Denmark"
+	},
+	"height": 185
+}, {
+	"id": "denmark_6",
+	"country": "Denmark",
+	"name": "Lars Jacobsen",
+	"shirt_number": 6,
+	"date_of_birth": "1979-09-20",
+	"position": "Defender",
+	"club": {
+		"name": "Rovers",
+		"country": "England"
+	},
+	"height": 184
+}, {
+	"id": "denmark_7",
+	"country": "Denmark",
+	"name": "Daniel Jensen",
+	"shirt_number": 7,
+	"date_of_birth": "1979-06-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "denmark_8",
+	"country": "Denmark",
+	"name": "Jesper Gronkjaer",
+	"shirt_number": 8,
+	"date_of_birth": "1977-08-12",
+	"position": "Forward",
+	"club": {
+		"name": "Copenhagen",
+		"country": "Denmark"
+	},
+	"height": 187
+}, {
+	"id": "denmark_9",
+	"country": "Denmark",
+	"name": "Jon Dahl Tomasson",
+	"shirt_number": 9,
+	"date_of_birth": "1976-08-29",
+	"position": "Forward",
+	"club": {
+		"name": "Feyenoord",
+		"country": "Netherlands"
+	},
+	"height": 182
+}, {
+	"id": "denmark_10",
+	"country": "Denmark",
+	"name": "Martin Jorgensen",
+	"shirt_number": 10,
+	"date_of_birth": "1975-10-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Aarhus",
+		"country": "Denmark"
+	},
+	"height": 180
+}, {
+	"id": "denmark_11",
+	"country": "Denmark",
+	"name": "Nicklas Bendtner",
+	"shirt_number": 11,
+	"date_of_birth": "1988-01-16",
+	"position": "Forward",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 194
+}, {
+	"id": "denmark_12",
+	"country": "Denmark",
+	"name": "Thomas Kahlenberg",
+	"shirt_number": 12,
+	"date_of_birth": "1983-03-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "denmark_13",
+	"country": "Denmark",
+	"name": "Per Kroldrup",
+	"shirt_number": 13,
+	"date_of_birth": "1979-07-31",
+	"position": "Defender",
+	"club": {
+		"name": "Fiorentina",
+		"country": "Italy"
+	},
+	"height": 194
+}, {
+	"id": "denmark_14",
+	"country": "Denmark",
+	"name": "Jakob Poulsen",
+	"shirt_number": 14,
+	"date_of_birth": "1983-07-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Aarhus",
+		"country": "Denmark"
+	},
+	"height": 185
+}, {
+	"id": "denmark_15",
+	"country": "Denmark",
+	"name": "Simon Poulsen",
+	"shirt_number": 15,
+	"date_of_birth": "1984-04-07",
+	"position": "Defender",
+	"club": {
+		"name": "Alkmaar",
+		"country": "Netherlands"
+	},
+	"height": 187
+}, {
+	"id": "denmark_16",
+	"country": "Denmark",
+	"name": "Stephan Andersen",
+	"shirt_number": 16,
+	"date_of_birth": "1981-11-26",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Brondby",
+		"country": "Denmark"
+	},
+	"height": 188
+}, {
+	"id": "denmark_17",
+	"country": "Denmark",
+	"name": "Mikkel Beckmann",
+	"shirt_number": 17,
+	"date_of_birth": "1983-10-24",
+	"position": "Forward",
+	"club": {
+		"name": "Randers",
+		"country": "Denmark"
+	},
+	"height": 178
+}, {
+	"id": "denmark_18",
+	"country": "Denmark",
+	"name": "Soren Larsen",
+	"shirt_number": 18,
+	"date_of_birth": "1981-09-06",
+	"position": "Forward",
+	"club": {
+		"name": "Duisburg",
+		"country": "Germany"
+	},
+	"height": 194
+}, {
+	"id": "denmark_19",
+	"country": "Denmark",
+	"name": "Dennis Rommedahl",
+	"shirt_number": 19,
+	"date_of_birth": "1978-07-22",
+	"position": "Forward",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 178
+}, {
+	"id": "denmark_20",
+	"country": "Denmark",
+	"name": "Thomas Enevoldsen",
+	"shirt_number": 20,
+	"date_of_birth": "1987-07-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Groningen",
+		"country": "Netherlands"
+	},
+	"height": 182
+}, {
+	"id": "denmark_21",
+	"country": "Denmark",
+	"name": "Christian Eriksen",
+	"shirt_number": 21,
+	"date_of_birth": "1992-02-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 181
+}, {
+	"id": "denmark_22",
+	"country": "Denmark",
+	"name": "Jesper Christiansen",
+	"shirt_number": 22,
+	"date_of_birth": "1978-04-24",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Copenhagen",
+		"country": "Denmark"
+	},
+	"height": 192
+}, {
+	"id": "denmark_23",
+	"country": "Denmark",
+	"name": "Patrick Mtiliga",
+	"shirt_number": 23,
+	"date_of_birth": "1981-01-28",
+	"position": "Defender",
+	"club": {
+		"name": "Malaga",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "england_1",
+	"country": "England",
+	"name": "David James",
+	"shirt_number": 1,
+	"date_of_birth": "1970-08-01",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 196
+}, {
+	"id": "england_2",
+	"country": "England",
+	"name": "Glen Johnson",
+	"shirt_number": 2,
+	"date_of_birth": "1984-08-23",
+	"position": "Defender",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "england_3",
+	"country": "England",
+	"name": "Ashley Cole",
+	"shirt_number": 3,
+	"date_of_birth": "1980-12-20",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 173
+}, {
+	"id": "england_4",
+	"country": "England",
+	"name": "Steven Gerrard",
+	"shirt_number": 4,
+	"date_of_birth": "1980-05-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "england_5",
+	"country": "England",
+	"name": "Michael Dawson",
+	"shirt_number": 5,
+	"date_of_birth": "1983-11-18",
+	"position": "Defender",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "england_6",
+	"country": "England",
+	"name": "John Terry",
+	"shirt_number": 6,
+	"date_of_birth": "1980-12-07",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "england_7",
+	"country": "England",
+	"name": "Aaron Lennon",
+	"shirt_number": 7,
+	"date_of_birth": "1987-04-16",
+	"position": "Midfielder",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 165
+}, {
+	"id": "england_8",
+	"country": "England",
+	"name": "Frank Lampard",
+	"shirt_number": 8,
+	"date_of_birth": "1978-06-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "england_9",
+	"country": "England",
+	"name": "Peter Crouch",
+	"shirt_number": 9,
+	"date_of_birth": "1981-01-30",
+	"position": "Forward",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 201
+}, {
+	"id": "england_10",
+	"country": "England",
+	"name": "Wayne Rooney",
+	"shirt_number": 10,
+	"date_of_birth": "1985-10-24",
+	"position": "Forward",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "england_11",
+	"country": "England",
+	"name": "Joe Cole",
+	"shirt_number": 11,
+	"date_of_birth": "1981-11-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "england_12",
+	"country": "England",
+	"name": "Robert Green",
+	"shirt_number": 12,
+	"date_of_birth": "1980-01-18",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "england_13",
+	"country": "England",
+	"name": "Stephen Warnock",
+	"shirt_number": 13,
+	"date_of_birth": "1981-12-12",
+	"position": "Defender",
+	"club": {
+		"name": "Villa",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "england_14",
+	"country": "England",
+	"name": "Gareth Barry",
+	"shirt_number": 14,
+	"date_of_birth": "1981-02-23",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "england_15",
+	"country": "England",
+	"name": "Matt Upson",
+	"shirt_number": 15,
+	"date_of_birth": "1979-04-18",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "england_16",
+	"country": "England",
+	"name": "James Milner",
+	"shirt_number": 16,
+	"date_of_birth": "1986-01-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Villa",
+		"country": "England"
+	},
+	"height": 170
+}, {
+	"id": "england_17",
+	"country": "England",
+	"name": "Shaun Wright-phillips",
+	"shirt_number": 17,
+	"date_of_birth": "1981-10-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 168
+}, {
+	"id": "england_18",
+	"country": "England",
+	"name": "Jamie Carragher",
+	"shirt_number": 18,
+	"date_of_birth": "1978-01-28",
+	"position": "Defender",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "england_19",
+	"country": "England",
+	"name": "Jermain Defoe",
+	"shirt_number": 19,
+	"date_of_birth": "1982-10-07",
+	"position": "Forward",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 170
+}, {
+	"id": "england_20",
+	"country": "England",
+	"name": "Ledley King",
+	"shirt_number": 20,
+	"date_of_birth": "1980-10-12",
+	"position": "Defender",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "england_21",
+	"country": "England",
+	"name": "Emile Heskey",
+	"shirt_number": 21,
+	"date_of_birth": "1978-01-11",
+	"position": "Forward",
+	"club": {
+		"name": "Villa",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "england_22",
+	"country": "England",
+	"name": "Michael Carrick",
+	"shirt_number": 22,
+	"date_of_birth": "1981-07-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "england_23",
+	"country": "England",
+	"name": "Joe Hart",
+	"shirt_number": 23,
+	"date_of_birth": "1987-04-19",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "france_1",
+	"country": "France",
+	"name": "Hugo Lloris",
+	"shirt_number": 1,
+	"date_of_birth": "1986-12-26",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 188
+}, {
+	"id": "france_2",
+	"country": "France",
+	"name": "Bakari Sagna",
+	"shirt_number": 2,
+	"date_of_birth": "1983-02-14",
+	"position": "Defender",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "france_3",
+	"country": "France",
+	"name": "Eric Abidal",
+	"shirt_number": 3,
+	"date_of_birth": "1979-09-11",
+	"position": "Defender",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "france_4",
+	"country": "France",
+	"name": "Anthony Reveillere",
+	"shirt_number": 4,
+	"date_of_birth": "1979-11-10",
+	"position": "Defender",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 181
+}, {
+	"id": "france_5",
+	"country": "France",
+	"name": "William Gallas",
+	"shirt_number": 5,
+	"date_of_birth": "1977-08-17",
+	"position": "Defender",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 181
+}, {
+	"id": "france_6",
+	"country": "France",
+	"name": "Marc Planus",
+	"shirt_number": 6,
+	"date_of_birth": "1982-03-07",
+	"position": "Defender",
+	"club": {
+		"name": "Bordeaux",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "france_7",
+	"country": "France",
+	"name": "Franck Ribery",
+	"shirt_number": 7,
+	"date_of_birth": "1983-04-07",
+	"position": "Forward",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 175
+}, {
+	"id": "france_8",
+	"country": "France",
+	"name": "Yoann Gourcuff",
+	"shirt_number": 8,
+	"date_of_birth": "1986-07-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bordeaux",
+		"country": "France"
+	},
+	"height": 185
+}, {
+	"id": "france_9",
+	"country": "France",
+	"name": "Djibril Cisse",
+	"shirt_number": 9,
+	"date_of_birth": "1981-08-12",
+	"position": "Forward",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 182
+}, {
+	"id": "france_10",
+	"country": "France",
+	"name": "Sidney Govou",
+	"shirt_number": 10,
+	"date_of_birth": "1979-07-27",
+	"position": "Forward",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 175
+}, {
+	"id": "france_11",
+	"country": "France",
+	"name": "Andre Pierre Gignac",
+	"shirt_number": 11,
+	"date_of_birth": "1985-12-05",
+	"position": "Forward",
+	"club": {
+		"name": "Toulouse",
+		"country": "France"
+	},
+	"height": 187
+}, {
+	"id": "france_12",
+	"country": "France",
+	"name": "Thierry Henry",
+	"shirt_number": 12,
+	"date_of_birth": "1977-08-17",
+	"position": "Forward",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 188
+}, {
+	"id": "france_13",
+	"country": "France",
+	"name": "Patrice Evra",
+	"shirt_number": 13,
+	"date_of_birth": "1981-05-15",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 171
+}, {
+	"id": "france_14",
+	"country": "France",
+	"name": "Jeremy Toulalan",
+	"shirt_number": 14,
+	"date_of_birth": "1983-09-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lyon",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "france_15",
+	"country": "France",
+	"name": "Florent Malouda",
+	"shirt_number": 15,
+	"date_of_birth": "1980-06-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 184
+}, {
+	"id": "france_16",
+	"country": "France",
+	"name": "Steve Mandanda",
+	"shirt_number": 16,
+	"date_of_birth": "1985-03-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Marseille",
+		"country": "France"
+	},
+	"height": 185
+}, {
+	"id": "france_17",
+	"country": "France",
+	"name": "Sebastien Squillaci",
+	"shirt_number": 17,
+	"date_of_birth": "1980-08-11",
+	"position": "Defender",
+	"club": {
+		"name": "FC",
+		"country": "Spain"
+	},
+	"height": 184
+}, {
+	"id": "france_18",
+	"country": "France",
+	"name": "Alou Diarra",
+	"shirt_number": 18,
+	"date_of_birth": "1981-07-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bordeaux",
+		"country": "France"
+	},
+	"height": 190
+}, {
+	"id": "france_19",
+	"country": "France",
+	"name": "Abou Diaby",
+	"shirt_number": 19,
+	"date_of_birth": "1986-05-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "france_20",
+	"country": "France",
+	"name": "Mathieu Valbuena",
+	"shirt_number": 20,
+	"date_of_birth": "1984-09-28",
+	"position": "Forward",
+	"club": {
+		"name": "Marseille",
+		"country": "France"
+	},
+	"height": 167
+}, {
+	"id": "france_21",
+	"country": "France",
+	"name": "Nicolas Anelka",
+	"shirt_number": 21,
+	"date_of_birth": "1979-03-14",
+	"position": "Forward",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "france_22",
+	"country": "France",
+	"name": "Gael Clichy",
+	"shirt_number": 22,
+	"date_of_birth": "1985-07-26",
+	"position": "Defender",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 181
+}, {
+	"id": "france_23",
+	"country": "France",
+	"name": "Cedric Carrasso",
+	"shirt_number": 23,
+	"date_of_birth": "1981-12-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Bordeaux",
+		"country": "France"
+	},
+	"height": 187
+}, {
+	"id": "germany_1",
+	"country": "Germany",
+	"name": "Manuel Neuer",
+	"shirt_number": 1,
+	"date_of_birth": "1986-03-27",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "04",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "germany_2",
+	"country": "Germany",
+	"name": "Marcell Jansen",
+	"shirt_number": 2,
+	"date_of_birth": "1985-11-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "germany_3",
+	"country": "Germany",
+	"name": "Arne Friedrich",
+	"shirt_number": 3,
+	"date_of_birth": "1979-05-29",
+	"position": "Defender",
+	"club": {
+		"name": "Berlin",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "germany_4",
+	"country": "Germany",
+	"name": "Dennis Aogo",
+	"shirt_number": 4,
+	"date_of_birth": "1987-01-14",
+	"position": "Defender",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 184
+}, {
+	"id": "germany_5",
+	"country": "Germany",
+	"name": "Serdar Tasci",
+	"shirt_number": 5,
+	"date_of_birth": "1987-04-24",
+	"position": "Defender",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 186
+}, {
+	"id": "germany_6",
+	"country": "Germany",
+	"name": "Sami Khedira",
+	"shirt_number": 6,
+	"date_of_birth": "1987-04-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 189
+}, {
+	"id": "germany_7",
+	"country": "Germany",
+	"name": "Bastian Schweinsteiger",
+	"shirt_number": 7,
+	"date_of_birth": "1984-08-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "germany_8",
+	"country": "Germany",
+	"name": "Mesut Oezil",
+	"shirt_number": 8,
+	"date_of_birth": "1988-10-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 182
+}, {
+	"id": "germany_9",
+	"country": "Germany",
+	"name": "Stefan Kiessling",
+	"shirt_number": 9,
+	"date_of_birth": "1984-01-25",
+	"position": "Forward",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 191
+}, {
+	"id": "germany_10",
+	"country": "Germany",
+	"name": "Lukas Podolski",
+	"shirt_number": 10,
+	"date_of_birth": "1985-06-04",
+	"position": "Forward",
+	"club": {
+		"name": "Cologne",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "germany_11",
+	"country": "Germany",
+	"name": "Miroslav Klose",
+	"shirt_number": 11,
+	"date_of_birth": "1978-06-09",
+	"position": "Forward",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 182
+}, {
+	"id": "germany_12",
+	"country": "Germany",
+	"name": "Tim Wiese",
+	"shirt_number": 12,
+	"date_of_birth": "1981-12-17",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 193
+}, {
+	"id": "germany_13",
+	"country": "Germany",
+	"name": "Thomas Mueller",
+	"shirt_number": 13,
+	"date_of_birth": "1989-09-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 186
+}, {
+	"id": "germany_14",
+	"country": "Germany",
+	"name": "Holger Badstuber",
+	"shirt_number": 14,
+	"date_of_birth": "1989-03-13",
+	"position": "Defender",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "germany_15",
+	"country": "Germany",
+	"name": "Piotr Trochowski",
+	"shirt_number": 15,
+	"date_of_birth": "1984-03-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 168
+}, {
+	"id": "germany_16",
+	"country": "Germany",
+	"name": "Philipp Lahm",
+	"shirt_number": 16,
+	"date_of_birth": "1983-11-11",
+	"position": "Defender",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 170
+}, {
+	"id": "germany_17",
+	"country": "Germany",
+	"name": "Per Mertesacker",
+	"shirt_number": 17,
+	"date_of_birth": "1984-09-29",
+	"position": "Defender",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 196
+}, {
+	"id": "germany_18",
+	"country": "Germany",
+	"name": "Toni Kroos",
+	"shirt_number": 18,
+	"date_of_birth": "1990-01-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "germany_19",
+	"country": "Germany",
+	"name": "Cacau",
+	"shirt_number": 19,
+	"date_of_birth": "1981-03-27",
+	"position": "Forward",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "germany_20",
+	"country": "Germany",
+	"name": "Jerome Boateng",
+	"shirt_number": 20,
+	"date_of_birth": "1988-09-03",
+	"position": "Defender",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 192
+}, {
+	"id": "germany_21",
+	"country": "Germany",
+	"name": "Marko Marin",
+	"shirt_number": 21,
+	"date_of_birth": "1989-03-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 169
+}, {
+	"id": "germany_22",
+	"country": "Germany",
+	"name": "Hans Joerg Butt",
+	"shirt_number": 22,
+	"date_of_birth": "1974-05-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 191
+}, {
+	"id": "germany_23",
+	"country": "Germany",
+	"name": "Mario Gomez",
+	"shirt_number": 23,
+	"date_of_birth": "1985-07-10",
+	"position": "Forward",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 189
+}, {
+	"id": "ghana_1",
+	"country": "Ghana",
+	"name": "Daniel Agyei",
+	"shirt_number": 1,
+	"date_of_birth": "1989-11-10",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Liberty",
+		"country": "Ghana"
+	},
+	"height": 186
+}, {
+	"id": "ghana_2",
+	"country": "Ghana",
+	"name": "Hans Sarpei",
+	"shirt_number": 2,
+	"date_of_birth": "1976-06-28",
+	"position": "Defender",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "ghana_3",
+	"country": "Ghana",
+	"name": "Asamoah Gyan",
+	"shirt_number": 3,
+	"date_of_birth": "1985-11-22",
+	"position": "Forward",
+	"club": {
+		"name": "Rennes",
+		"country": "France"
+	},
+	"height": 186
+}, {
+	"id": "ghana_4",
+	"country": "Ghana",
+	"name": "John Pantsil",
+	"shirt_number": 4,
+	"date_of_birth": "1981-06-15",
+	"position": "Defender",
+	"club": {
+		"name": "Fulham",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "ghana_5",
+	"country": "Ghana",
+	"name": "John Mensah",
+	"shirt_number": 5,
+	"date_of_birth": "1982-11-29",
+	"position": "Defender",
+	"club": {
+		"name": "Sunderland",
+		"country": "England"
+	},
+	"height": 177
+}, {
+	"id": "ghana_6",
+	"country": "Ghana",
+	"name": "Anthony Annan",
+	"shirt_number": 6,
+	"date_of_birth": "1986-07-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rosenborg",
+		"country": "Norway"
+	},
+	"height": 171
+}, {
+	"id": "ghana_7",
+	"country": "Ghana",
+	"name": "Samuel Inkoom",
+	"shirt_number": 7,
+	"date_of_birth": "1989-06-01",
+	"position": "Defender",
+	"club": {
+		"name": "Basel",
+		"country": "Switzerland"
+	},
+	"height": 179
+}, {
+	"id": "ghana_8",
+	"country": "Ghana",
+	"name": "Jonathan Mensah",
+	"shirt_number": 8,
+	"date_of_birth": "1990-07-13",
+	"position": "Defender",
+	"club": {
+		"name": "Stars",
+		"country": "South Africa"
+	},
+	"height": 182
+}, {
+	"id": "ghana_9",
+	"country": "Ghana",
+	"name": "Derek Boateng",
+	"shirt_number": 9,
+	"date_of_birth": "1983-05-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Getafe",
+		"country": "Spain"
+	},
+	"height": 185
+}, {
+	"id": "ghana_10",
+	"country": "Ghana",
+	"name": "Stephen Appiah",
+	"shirt_number": 10,
+	"date_of_birth": "1980-12-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bologna",
+		"country": "Italy"
+	},
+	"height": 178
+}, {
+	"id": "ghana_11",
+	"country": "Ghana",
+	"name": "Sulley Muntari",
+	"shirt_number": 11,
+	"date_of_birth": "1984-08-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "ghana_12",
+	"country": "Ghana",
+	"name": "Prince Tagoe",
+	"shirt_number": 12,
+	"date_of_birth": "1986-11-09",
+	"position": "Forward",
+	"club": {
+		"name": "Hoffenheim",
+		"country": "Germany"
+	},
+	"height": 179
+}, {
+	"id": "ghana_13",
+	"country": "Ghana",
+	"name": "Andre Ayew",
+	"shirt_number": 13,
+	"date_of_birth": "1989-12-17",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arles",
+		"country": "France"
+	},
+	"height": 175
+}, {
+	"id": "ghana_14",
+	"country": "Ghana",
+	"name": "Matthew Amoah",
+	"shirt_number": 14,
+	"date_of_birth": "1980-10-24",
+	"position": "Forward",
+	"club": {
+		"name": "Breda",
+		"country": "Netherlands"
+	},
+	"height": 175
+}, {
+	"id": "ghana_15",
+	"country": "Ghana",
+	"name": "Isaac Vorsah",
+	"shirt_number": 15,
+	"date_of_birth": "1988-06-21",
+	"position": "Defender",
+	"club": {
+		"name": "Hoffenheim",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "ghana_16",
+	"country": "Ghana",
+	"name": "Stephen Ahorlu",
+	"shirt_number": 16,
+	"date_of_birth": "1988-09-05",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Lions",
+		"country": "Ghana"
+	},
+	"height": 179
+}, {
+	"id": "ghana_17",
+	"country": "Ghana",
+	"name": "Ibrahim Ayew",
+	"shirt_number": 17,
+	"date_of_birth": "1988-04-16",
+	"position": "Defender",
+	"club": {
+		"name": "Zamalek",
+		"country": "Egypt"
+	},
+	"height": 176
+}, {
+	"id": "ghana_18",
+	"country": "Ghana",
+	"name": "Dominic Adiyiah",
+	"shirt_number": 18,
+	"date_of_birth": "1989-11-29",
+	"position": "Forward",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 170
+}, {
+	"id": "ghana_19",
+	"country": "Ghana",
+	"name": "Lee Addy",
+	"shirt_number": 19,
+	"date_of_birth": "1990-07-07",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "Ghana"
+	},
+	"height": 178
+}, {
+	"id": "ghana_20",
+	"country": "Ghana",
+	"name": "Quincy Owusu-abeyie",
+	"shirt_number": 20,
+	"date_of_birth": "1986-04-15",
+	"position": "Forward",
+	"club": {
+		"name": "Sadd",
+		"country": "Qatar"
+	},
+	"height": 180
+}, {
+	"id": "ghana_21",
+	"country": "Ghana",
+	"name": "Kwadwo Asamoah",
+	"shirt_number": 21,
+	"date_of_birth": "1988-12-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 168
+}, {
+	"id": "ghana_22",
+	"country": "Ghana",
+	"name": "Richard Kingson",
+	"shirt_number": 22,
+	"date_of_birth": "1978-06-13",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Wigan",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "ghana_23",
+	"country": "Ghana",
+	"name": "Kevin Prince Boateng",
+	"shirt_number": 23,
+	"date_of_birth": "1987-03-06",
+	"position": "Forward",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "greece_1",
+	"country": "Greece",
+	"name": "Konstantinos Chalkias",
+	"shirt_number": 1,
+	"date_of_birth": "1974-05-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "PAOK",
+		"country": "Greece"
+	},
+	"height": 198
+}, {
+	"id": "greece_2",
+	"country": "Greece",
+	"name": "Giourkas Seitaridis",
+	"shirt_number": 2,
+	"date_of_birth": "1981-06-04",
+	"position": "Defender",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 185
+}, {
+	"id": "greece_3",
+	"country": "Greece",
+	"name": "Christos Patsatzoglou",
+	"shirt_number": 3,
+	"date_of_birth": "1979-03-19",
+	"position": "Defender",
+	"club": {
+		"name": "Omonia",
+		"country": "Cyprus"
+	},
+	"height": 183
+}, {
+	"id": "greece_4",
+	"country": "Greece",
+	"name": "Nikos Spiropoulos",
+	"shirt_number": 4,
+	"date_of_birth": "1983-10-10",
+	"position": "Defender",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 171
+}, {
+	"id": "greece_5",
+	"country": "Greece",
+	"name": "Vangelis Moras",
+	"shirt_number": 5,
+	"date_of_birth": "1981-08-26",
+	"position": "Defender",
+	"club": {
+		"name": "Bologna",
+		"country": "Italy"
+	},
+	"height": 193
+}, {
+	"id": "greece_6",
+	"country": "Greece",
+	"name": "Alexandros Tziolis",
+	"shirt_number": 6,
+	"date_of_birth": "1985-02-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Siena",
+		"country": "Italy"
+	},
+	"height": 190
+}, {
+	"id": "greece_7",
+	"country": "Greece",
+	"name": "Georgios Samaras",
+	"shirt_number": 7,
+	"date_of_birth": "1985-02-21",
+	"position": "Forward",
+	"club": {
+		"name": "Celtic",
+		"country": "Scotland"
+	},
+	"height": 192
+}, {
+	"id": "greece_8",
+	"country": "Greece",
+	"name": "Avraam Papadopoulos",
+	"shirt_number": 8,
+	"date_of_birth": "1984-12-03",
+	"position": "Defender",
+	"club": {
+		"name": "Olympiacos",
+		"country": "Greece"
+	},
+	"height": 186
+}, {
+	"id": "greece_9",
+	"country": "Greece",
+	"name": "Angelos Charisteas",
+	"shirt_number": 9,
+	"date_of_birth": "1980-02-09",
+	"position": "Forward",
+	"club": {
+		"name": "Nuremberg",
+		"country": "Germany"
+	},
+	"height": 191
+}, {
+	"id": "greece_10",
+	"country": "Greece",
+	"name": "Georgios Karagounis",
+	"shirt_number": 10,
+	"date_of_birth": "1977-03-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 176
+}, {
+	"id": "greece_11",
+	"country": "Greece",
+	"name": "Loukas Vyntra",
+	"shirt_number": 11,
+	"date_of_birth": "1981-02-05",
+	"position": "Defender",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 184
+}, {
+	"id": "greece_12",
+	"country": "Greece",
+	"name": "Alexandros Tzorvas",
+	"shirt_number": 12,
+	"date_of_birth": "1982-08-12",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 190
+}, {
+	"id": "greece_13",
+	"country": "Greece",
+	"name": "Michail Sifakis",
+	"shirt_number": 13,
+	"date_of_birth": "1984-09-09",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Thessaloniki",
+		"country": "Greece"
+	},
+	"height": 186
+}, {
+	"id": "greece_14",
+	"country": "Greece",
+	"name": "Dimitrios Salpingidis",
+	"shirt_number": 14,
+	"date_of_birth": "1981-08-18",
+	"position": "Forward",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 171
+}, {
+	"id": "greece_15",
+	"country": "Greece",
+	"name": "Vasileios Torosidis",
+	"shirt_number": 15,
+	"date_of_birth": "1985-06-10",
+	"position": "Defender",
+	"club": {
+		"name": "Olympiacos",
+		"country": "Greece"
+	},
+	"height": 185
+}, {
+	"id": "greece_16",
+	"country": "Greece",
+	"name": "Sotirios Kyrgiakos",
+	"shirt_number": 16,
+	"date_of_birth": "1979-07-23",
+	"position": "Defender",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 192
+}, {
+	"id": "greece_17",
+	"country": "Greece",
+	"name": "Theofanis Gekas",
+	"shirt_number": 17,
+	"date_of_birth": "1980-05-23",
+	"position": "Forward",
+	"club": {
+		"name": "Berlin",
+		"country": "Germany"
+	},
+	"height": 179
+}, {
+	"id": "greece_18",
+	"country": "Greece",
+	"name": "Sotiris Ninis",
+	"shirt_number": 18,
+	"date_of_birth": "1990-04-03",
+	"position": "Midfielder",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 173
+}, {
+	"id": "greece_19",
+	"country": "Greece",
+	"name": "Sokratis Papastathopoulos",
+	"shirt_number": 19,
+	"date_of_birth": "1988-06-09",
+	"position": "Defender",
+	"club": {
+		"name": "Genoa",
+		"country": "Italy"
+	},
+	"height": 186
+}, {
+	"id": "greece_20",
+	"country": "Greece",
+	"name": "Pantelis Kapetanos",
+	"shirt_number": 20,
+	"date_of_birth": "1983-06-08",
+	"position": "Forward",
+	"club": {
+		"name": "Steaua",
+		"country": "Romania"
+	},
+	"height": 190
+}, {
+	"id": "greece_21",
+	"country": "Greece",
+	"name": "Konstantinos Katsouranis",
+	"shirt_number": 21,
+	"date_of_birth": "1979-06-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Panathinaikos",
+		"country": "Greece"
+	},
+	"height": 183
+}, {
+	"id": "greece_22",
+	"country": "Greece",
+	"name": "Stelios Malezas",
+	"shirt_number": 22,
+	"date_of_birth": "1985-03-11",
+	"position": "Defender",
+	"club": {
+		"name": "PAOK",
+		"country": "Greece"
+	},
+	"height": 192
+}, {
+	"id": "greece_23",
+	"country": "Greece",
+	"name": "Athanasios Prittas",
+	"shirt_number": 23,
+	"date_of_birth": "1979-01-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Thessaloniki",
+		"country": "Greece"
+	},
+	"height": 185
+}, {
+	"id": "honduras_1",
+	"country": "Honduras",
+	"name": "Ricardo Canales",
+	"shirt_number": 1,
+	"date_of_birth": "1982-05-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Motagua",
+		"country": "Honduras"
+	},
+	"height": 180
+}, {
+	"id": "honduras_2",
+	"country": "Honduras",
+	"name": "Osman Chavez",
+	"shirt_number": 2,
+	"date_of_birth": "1984-07-29",
+	"position": "Defender",
+	"club": {
+		"name": "Platense",
+		"country": "Honduras"
+	},
+	"height": 187
+}, {
+	"id": "honduras_3",
+	"country": "Honduras",
+	"name": "Maynor Figueroa",
+	"shirt_number": 3,
+	"date_of_birth": "1983-05-02",
+	"position": "Defender",
+	"club": {
+		"name": "Wigan",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "honduras_4",
+	"country": "Honduras",
+	"name": "Jhony Palacios",
+	"shirt_number": 4,
+	"date_of_birth": "1986-12-20",
+	"position": "Defender",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 182
+}, {
+	"id": "honduras_5",
+	"country": "Honduras",
+	"name": "Victor Bernardez",
+	"shirt_number": 5,
+	"date_of_birth": "1982-05-24",
+	"position": "Defender",
+	"club": {
+		"name": "Anderlecht",
+		"country": "Belgium"
+	},
+	"height": 187
+}, {
+	"id": "honduras_6",
+	"country": "Honduras",
+	"name": "Hendry Thomas",
+	"shirt_number": 6,
+	"date_of_birth": "1985-02-23",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wigan",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "honduras_7",
+	"country": "Honduras",
+	"name": "Ramon Nunez",
+	"shirt_number": 7,
+	"date_of_birth": "1985-11-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 169
+}, {
+	"id": "honduras_8",
+	"country": "Honduras",
+	"name": "Wilson Palacios",
+	"shirt_number": 8,
+	"date_of_birth": "1984-07-29",
+	"position": "Midfielder",
+	"club": {
+		"name": "Hotspur",
+		"country": "England"
+	},
+	"height": 176
+}, {
+	"id": "honduras_9",
+	"country": "Honduras",
+	"name": "Carlos Pavon",
+	"shirt_number": 9,
+	"date_of_birth": "1973-10-09",
+	"position": "Forward",
+	"club": {
+		"name": "Espana",
+		"country": "Honduras"
+	},
+	"height": 180
+}, {
+	"id": "honduras_10",
+	"country": "Honduras",
+	"name": "Jerry Palacios",
+	"shirt_number": 10,
+	"date_of_birth": "1982-05-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Greentown",
+		"country": "China"
+	},
+	"height": 183
+}, {
+	"id": "honduras_11",
+	"country": "Honduras",
+	"name": "David Suazo",
+	"shirt_number": 11,
+	"date_of_birth": "1979-11-05",
+	"position": "Forward",
+	"club": {
+		"name": "Genoa",
+		"country": "Italy"
+	},
+	"height": 183
+}, {
+	"id": "honduras_12",
+	"country": "Honduras",
+	"name": "Georgie Welcome",
+	"shirt_number": 12,
+	"date_of_birth": "1985-03-09",
+	"position": "Forward",
+	"club": {
+		"name": "Motagua",
+		"country": "Honduras"
+	},
+	"height": 192
+}, {
+	"id": "honduras_13",
+	"country": "Honduras",
+	"name": "Roger Espinoza",
+	"shirt_number": 13,
+	"date_of_birth": "1986-10-25",
+	"position": "Forward",
+	"club": {
+		"name": "Wizards",
+		"country": "United States"
+	},
+	"height": 178
+}, {
+	"id": "honduras_14",
+	"country": "Honduras",
+	"name": "Oscar Garcia",
+	"shirt_number": 14,
+	"date_of_birth": "1984-09-04",
+	"position": "Defender",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 176
+}, {
+	"id": "honduras_15",
+	"country": "Honduras",
+	"name": "Walter Martinez",
+	"shirt_number": 15,
+	"date_of_birth": "1982-03-24",
+	"position": "Forward",
+	"club": {
+		"name": "Marathon",
+		"country": "Honduras"
+	},
+	"height": 166
+}, {
+	"id": "honduras_16",
+	"country": "Honduras",
+	"name": "Mauricio Sabillon",
+	"shirt_number": 16,
+	"date_of_birth": "1978-11-11",
+	"position": "Defender",
+	"club": {
+		"name": "Greentown",
+		"country": "China"
+	},
+	"height": 180
+}, {
+	"id": "honduras_17",
+	"country": "Honduras",
+	"name": "Edgar Alvarez",
+	"shirt_number": 17,
+	"date_of_birth": "1980-01-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bari",
+		"country": "Italy"
+	},
+	"height": 170
+}, {
+	"id": "honduras_18",
+	"country": "Honduras",
+	"name": "Noel Valladares",
+	"shirt_number": 18,
+	"date_of_birth": "1977-05-03",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 179
+}, {
+	"id": "honduras_19",
+	"country": "Honduras",
+	"name": "Danilo Turcios",
+	"shirt_number": 19,
+	"date_of_birth": "1978-05-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 166
+}, {
+	"id": "honduras_20",
+	"country": "Honduras",
+	"name": "Amado Guevara",
+	"shirt_number": 20,
+	"date_of_birth": "1976-05-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Motagua",
+		"country": "Honduras"
+	},
+	"height": 176
+}, {
+	"id": "honduras_21",
+	"country": "Honduras",
+	"name": "Emilio Izaguirre",
+	"shirt_number": 21,
+	"date_of_birth": "1986-05-10",
+	"position": "Defender",
+	"club": {
+		"name": "Motagua",
+		"country": "Honduras"
+	},
+	"height": 178
+}, {
+	"id": "honduras_22",
+	"country": "Honduras",
+	"name": "Donis Escober",
+	"shirt_number": 22,
+	"date_of_birth": "1981-02-03",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Tegucigalpa",
+		"country": "Honduras"
+	},
+	"height": 180
+}, {
+	"id": "honduras_23",
+	"country": "Honduras",
+	"name": "Sergio Mendoza",
+	"shirt_number": 23,
+	"date_of_birth": "1981-05-23",
+	"position": "Defender",
+	"club": {
+		"name": "Motagua",
+		"country": "Honduras"
+	},
+	"height": 177
+}, {
+	"id": "italy_1",
+	"country": "Italy",
+	"name": "Gianluigi Buffon",
+	"shirt_number": 1,
+	"date_of_birth": "1978-01-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 190
+}, {
+	"id": "italy_2",
+	"country": "Italy",
+	"name": "Christian Maggio",
+	"shirt_number": 2,
+	"date_of_birth": "1982-02-11",
+	"position": "Defender",
+	"club": {
+		"name": "Napoli",
+		"country": "Italy"
+	},
+	"height": 184
+}, {
+	"id": "italy_3",
+	"country": "Italy",
+	"name": "Domenico Criscito",
+	"shirt_number": 3,
+	"date_of_birth": "1986-12-30",
+	"position": "Defender",
+	"club": {
+		"name": "Genoa",
+		"country": "Italy"
+	},
+	"height": 175
+}, {
+	"id": "italy_4",
+	"country": "Italy",
+	"name": "Giorgio Chiellini",
+	"shirt_number": 4,
+	"date_of_birth": "1984-08-14",
+	"position": "Defender",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 192
+}, {
+	"id": "italy_5",
+	"country": "Italy",
+	"name": "Fabio Cannavaro",
+	"shirt_number": 5,
+	"date_of_birth": "1973-09-13",
+	"position": "Defender",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 175
+}, {
+	"id": "italy_6",
+	"country": "Italy",
+	"name": "Daniele De Rossi",
+	"shirt_number": 6,
+	"date_of_birth": "1983-07-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Roma",
+		"country": "Italy"
+	},
+	"height": 182
+}, {
+	"id": "italy_7",
+	"country": "Italy",
+	"name": "Simone Pepe",
+	"shirt_number": 7,
+	"date_of_birth": "1983-08-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 179
+}, {
+	"id": "italy_8",
+	"country": "Italy",
+	"name": "Gennaro Gattuso",
+	"shirt_number": 8,
+	"date_of_birth": "1978-01-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "italy_9",
+	"country": "Italy",
+	"name": "Vincenzo Iaquinta",
+	"shirt_number": 9,
+	"date_of_birth": "1979-11-21",
+	"position": "Forward",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 186
+}, {
+	"id": "italy_10",
+	"country": "Italy",
+	"name": "Antonio Di Natale",
+	"shirt_number": 10,
+	"date_of_birth": "1977-10-13",
+	"position": "Forward",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 170
+}, {
+	"id": "italy_11",
+	"country": "Italy",
+	"name": "Alberto Gilardino",
+	"shirt_number": 11,
+	"date_of_birth": "1982-07-05",
+	"position": "Forward",
+	"club": {
+		"name": "Fiorentina",
+		"country": "Italy"
+	},
+	"height": 184
+}, {
+	"id": "italy_12",
+	"country": "Italy",
+	"name": "Federico Marchetti",
+	"shirt_number": 12,
+	"date_of_birth": "1983-02-07",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Cagliari",
+		"country": "Italy"
+	},
+	"height": 188
+}, {
+	"id": "italy_13",
+	"country": "Italy",
+	"name": "Salvatore Bocchetti",
+	"shirt_number": 13,
+	"date_of_birth": "1986-11-30",
+	"position": "Defender",
+	"club": {
+		"name": "Genoa",
+		"country": "Italy"
+	},
+	"height": 178
+}, {
+	"id": "italy_14",
+	"country": "Italy",
+	"name": "Morgan De Sanctis",
+	"shirt_number": 14,
+	"date_of_birth": "1977-03-26",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Napoli",
+		"country": "Italy"
+	},
+	"height": 190
+}, {
+	"id": "italy_15",
+	"country": "Italy",
+	"name": "Claudio Marchisio",
+	"shirt_number": 15,
+	"date_of_birth": "1986-01-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 179
+}, {
+	"id": "italy_16",
+	"country": "Italy",
+	"name": "Mauro Camoranesi",
+	"shirt_number": 16,
+	"date_of_birth": "1976-10-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 174
+}, {
+	"id": "italy_17",
+	"country": "Italy",
+	"name": "Angelo Palombo",
+	"shirt_number": 17,
+	"date_of_birth": "1981-09-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sampdoria",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "italy_18",
+	"country": "Italy",
+	"name": "Fabio Quagliarella",
+	"shirt_number": 18,
+	"date_of_birth": "1983-01-31",
+	"position": "Forward",
+	"club": {
+		"name": "Napoli",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "italy_19",
+	"country": "Italy",
+	"name": "Gianluca Zambrotta",
+	"shirt_number": 19,
+	"date_of_birth": "1977-02-19",
+	"position": "Defender",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 181
+}, {
+	"id": "italy_20",
+	"country": "Italy",
+	"name": "Giampaolo Pazzini",
+	"shirt_number": 20,
+	"date_of_birth": "1984-08-02",
+	"position": "Forward",
+	"club": {
+		"name": "Sampdoria",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "italy_21",
+	"country": "Italy",
+	"name": "Andrea Pirlo",
+	"shirt_number": 21,
+	"date_of_birth": "1979-05-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "italy_22",
+	"country": "Italy",
+	"name": "Riccardo Montolivo",
+	"shirt_number": 22,
+	"date_of_birth": "1985-01-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Fiorentina",
+		"country": "Italy"
+	},
+	"height": 181
+}, {
+	"id": "italy_23",
+	"country": "Italy",
+	"name": "Leonardo Bonucci",
+	"shirt_number": 23,
+	"date_of_birth": "1987-05-01",
+	"position": "Defender",
+	"club": {
+		"name": "Bari",
+		"country": "Italy"
+	},
+	"height": 190
+}, {
+	"id": "ivory_coast_1",
+	"country": "Ivory_coast",
+	"name": "Boubacar Barry",
+	"shirt_number": 1,
+	"date_of_birth": "1979-12-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Lokeren",
+		"country": "Belgium"
+	},
+	"height": 180
+}, {
+	"id": "ivory_coast_2",
+	"country": "Ivory_coast",
+	"name": "Brou Angoua",
+	"shirt_number": 2,
+	"date_of_birth": "1986-11-28",
+	"position": "Defender",
+	"club": {
+		"name": "Valenciennes",
+		"country": "France"
+	},
+	"height": 178
+}, {
+	"id": "ivory_coast_3",
+	"country": "Ivory_coast",
+	"name": "Arthur Boka",
+	"shirt_number": 3,
+	"date_of_birth": "1983-04-02",
+	"position": "Defender",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 166
+}, {
+	"id": "ivory_coast_4",
+	"country": "Ivory_coast",
+	"name": "Kolo Toure",
+	"shirt_number": 4,
+	"date_of_birth": "1981-03-19",
+	"position": "Defender",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "ivory_coast_5",
+	"country": "Ivory_coast",
+	"name": "Didier Zokora",
+	"shirt_number": 5,
+	"date_of_birth": "1980-12-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "FC",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "ivory_coast_6",
+	"country": "Ivory_coast",
+	"name": "Steve Gohouri",
+	"shirt_number": 6,
+	"date_of_birth": "1981-02-08",
+	"position": "Defender",
+	"club": {
+		"name": "Wigan",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "ivory_coast_7",
+	"country": "Ivory_coast",
+	"name": "Seydou Doumbia",
+	"shirt_number": 7,
+	"date_of_birth": "1987-12-31",
+	"position": "Forward",
+	"club": {
+		"name": "Boys",
+		"country": "Switzerland"
+	},
+	"height": 183
+}, {
+	"id": "ivory_coast_8",
+	"country": "Ivory_coast",
+	"name": "Salomon Kalou",
+	"shirt_number": 8,
+	"date_of_birth": "1985-08-05",
+	"position": "Forward",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "ivory_coast_9",
+	"country": "Ivory_coast",
+	"name": "Ismael Tiote",
+	"shirt_number": 9,
+	"date_of_birth": "1986-06-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 175
+}, {
+	"id": "ivory_coast_10",
+	"country": "Ivory_coast",
+	"name": "Gervinho",
+	"shirt_number": 10,
+	"date_of_birth": "1987-05-27",
+	"position": "Forward",
+	"club": {
+		"name": "Lille",
+		"country": "France"
+	},
+	"height": 179
+}, {
+	"id": "ivory_coast_11",
+	"country": "Ivory_coast",
+	"name": "Didier Drogba",
+	"shirt_number": 11,
+	"date_of_birth": "1978-03-11",
+	"position": "Forward",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "ivory_coast_12",
+	"country": "Ivory_coast",
+	"name": "Jean Jacques Gosso",
+	"shirt_number": 12,
+	"date_of_birth": "1983-03-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Monaco",
+		"country": "France"
+	},
+	"height": 177
+}, {
+	"id": "ivory_coast_13",
+	"country": "Ivory_coast",
+	"name": "Romaric",
+	"shirt_number": 13,
+	"date_of_birth": "1983-06-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "FC",
+		"country": "Spain"
+	},
+	"height": 187
+}, {
+	"id": "ivory_coast_14",
+	"country": "Ivory_coast",
+	"name": "Emmanuel Kone",
+	"shirt_number": 14,
+	"date_of_birth": "1986-12-31",
+	"position": "Midfielder",
+	"club": {
+		"name": "International",
+		"country": "Romania"
+	},
+	"height": 177
+}, {
+	"id": "ivory_coast_15",
+	"country": "Ivory_coast",
+	"name": "Aruna Dindane",
+	"shirt_number": 15,
+	"date_of_birth": "1980-11-26",
+	"position": "Forward",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 174
+}, {
+	"id": "ivory_coast_16",
+	"country": "Ivory_coast",
+	"name": "Aristide Zogbo",
+	"shirt_number": 16,
+	"date_of_birth": "1981-12-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Netanya",
+		"country": "Israel"
+	},
+	"height": 183
+}, {
+	"id": "ivory_coast_17",
+	"country": "Ivory_coast",
+	"name": "Siaka Tiene",
+	"shirt_number": 17,
+	"date_of_birth": "1982-02-22",
+	"position": "Defender",
+	"club": {
+		"name": "Valenciennes",
+		"country": "France"
+	},
+	"height": 176
+}, {
+	"id": "ivory_coast_18",
+	"country": "Ivory_coast",
+	"name": "Kader Keita",
+	"shirt_number": 18,
+	"date_of_birth": "1981-08-06",
+	"position": "Forward",
+	"club": {
+		"name": "Galatasaray",
+		"country": "Turkey"
+	},
+	"height": 184
+}, {
+	"id": "ivory_coast_19",
+	"country": "Ivory_coast",
+	"name": "Yaya Toure",
+	"shirt_number": 19,
+	"date_of_birth": "1983-05-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 189
+}, {
+	"id": "ivory_coast_20",
+	"country": "Ivory_coast",
+	"name": "Guy Demel",
+	"shirt_number": 20,
+	"date_of_birth": "1981-06-13",
+	"position": "Defender",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 191
+}, {
+	"id": "ivory_coast_21",
+	"country": "Ivory_coast",
+	"name": "Emmanuel Eboue",
+	"shirt_number": 21,
+	"date_of_birth": "1983-06-04",
+	"position": "Defender",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "ivory_coast_22",
+	"country": "Ivory_coast",
+	"name": "Souleymane Bamba",
+	"shirt_number": 22,
+	"date_of_birth": "1985-01-13",
+	"position": "Defender",
+	"club": {
+		"name": "Hibernian",
+		"country": "Scotland"
+	},
+	"height": 190
+}, {
+	"id": "ivory_coast_23",
+	"country": "Ivory_coast",
+	"name": "Daniel Yeboah",
+	"shirt_number": 23,
+	"date_of_birth": "1984-11-13",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Mimosas",
+		"country": "Ivory Coast"
+	},
+	"height": 187
+}, {
+	"id": "japan_1",
+	"country": "Japan",
+	"name": "Seigo Narazaki",
+	"shirt_number": 1,
+	"date_of_birth": "1976-04-15",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Eight",
+		"country": "Japan"
+	},
+	"height": 187
+}, {
+	"id": "japan_2",
+	"country": "Japan",
+	"name": "Yuki Abe",
+	"shirt_number": 2,
+	"date_of_birth": "1981-09-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Reds",
+		"country": "Japan"
+	},
+	"height": 177
+}, {
+	"id": "japan_3",
+	"country": "Japan",
+	"name": "Yuichi Komano",
+	"shirt_number": 3,
+	"date_of_birth": "1981-07-25",
+	"position": "Defender",
+	"club": {
+		"name": "Iwata",
+		"country": "Japan"
+	},
+	"height": 172
+}, {
+	"id": "japan_4",
+	"country": "Japan",
+	"name": "Marcus Tulio Tanaka",
+	"shirt_number": 4,
+	"date_of_birth": "1981-04-24",
+	"position": "Defender",
+	"club": {
+		"name": "Eight",
+		"country": "Japan"
+	},
+	"height": 185
+}, {
+	"id": "japan_5",
+	"country": "Japan",
+	"name": "Yuto Nagatomo",
+	"shirt_number": 5,
+	"date_of_birth": "1986-09-12",
+	"position": "Defender",
+	"club": {
+		"name": "Tokyo",
+		"country": "Japan"
+	},
+	"height": 170
+}, {
+	"id": "japan_6",
+	"country": "Japan",
+	"name": "Atsuto Uchida",
+	"shirt_number": 6,
+	"date_of_birth": "1988-03-27",
+	"position": "Defender",
+	"club": {
+		"name": "Antlers",
+		"country": "Japan"
+	},
+	"height": 176
+}, {
+	"id": "japan_7",
+	"country": "Japan",
+	"name": "Yasuhito Endo",
+	"shirt_number": 7,
+	"date_of_birth": "1980-01-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Osaka",
+		"country": "Japan"
+	},
+	"height": 178
+}, {
+	"id": "japan_8",
+	"country": "Japan",
+	"name": "Daisuke Matsui",
+	"shirt_number": 8,
+	"date_of_birth": "1981-05-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Grenoble",
+		"country": "France"
+	},
+	"height": 175
+}, {
+	"id": "japan_9",
+	"country": "Japan",
+	"name": "Shinji Okazaki",
+	"shirt_number": 9,
+	"date_of_birth": "1986-04-16",
+	"position": "Forward",
+	"club": {
+		"name": "Pulse",
+		"country": "Japan"
+	},
+	"height": 174
+}, {
+	"id": "japan_10",
+	"country": "Japan",
+	"name": "Shunsuke Nakamura",
+	"shirt_number": 10,
+	"date_of_birth": "1978-06-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Marinos",
+		"country": "Japan"
+	},
+	"height": 178
+}, {
+	"id": "japan_11",
+	"country": "Japan",
+	"name": "Keiji Tamada",
+	"shirt_number": 11,
+	"date_of_birth": "1980-04-11",
+	"position": "Forward",
+	"club": {
+		"name": "Eight",
+		"country": "Japan"
+	},
+	"height": 173
+}, {
+	"id": "japan_12",
+	"country": "Japan",
+	"name": "Kisho Yano",
+	"shirt_number": 12,
+	"date_of_birth": "1984-04-05",
+	"position": "Forward",
+	"club": {
+		"name": "Niigata",
+		"country": "Japan"
+	},
+	"height": 185
+}, {
+	"id": "japan_13",
+	"country": "Japan",
+	"name": "Daiki Iwamasa",
+	"shirt_number": 13,
+	"date_of_birth": "1982-01-30",
+	"position": "Defender",
+	"club": {
+		"name": "Antlers",
+		"country": "Japan"
+	},
+	"height": 187
+}, {
+	"id": "japan_14",
+	"country": "Japan",
+	"name": "Kengo Nakamura",
+	"shirt_number": 14,
+	"date_of_birth": "1980-10-31",
+	"position": "Midfielder",
+	"club": {
+		"name": "Frontale",
+		"country": "Japan"
+	},
+	"height": 175
+}, {
+	"id": "japan_15",
+	"country": "Japan",
+	"name": "Yasuyuki Konno",
+	"shirt_number": 15,
+	"date_of_birth": "1983-01-25",
+	"position": "Defender",
+	"club": {
+		"name": "Tokyo",
+		"country": "Japan"
+	},
+	"height": 178
+}, {
+	"id": "japan_16",
+	"country": "Japan",
+	"name": "Yoshito Okubo",
+	"shirt_number": 16,
+	"date_of_birth": "1982-06-09",
+	"position": "Forward",
+	"club": {
+		"name": "Kobe",
+		"country": "Japan"
+	},
+	"height": 170
+}, {
+	"id": "japan_17",
+	"country": "Japan",
+	"name": "Makoto Hasebe",
+	"shirt_number": 17,
+	"date_of_birth": "1984-01-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 177
+}, {
+	"id": "japan_18",
+	"country": "Japan",
+	"name": "Keisuke Honda",
+	"shirt_number": 18,
+	"date_of_birth": "1986-06-13",
+	"position": "Midfielder",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 182
+}, {
+	"id": "japan_19",
+	"country": "Japan",
+	"name": "Takayuki Morimoto",
+	"shirt_number": 19,
+	"date_of_birth": "1988-05-07",
+	"position": "Forward",
+	"club": {
+		"name": "Catania",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "japan_20",
+	"country": "Japan",
+	"name": "Junichi Inamoto",
+	"shirt_number": 20,
+	"date_of_birth": "1979-09-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Frontale",
+		"country": "Japan"
+	},
+	"height": 181
+}, {
+	"id": "japan_21",
+	"country": "Japan",
+	"name": "Eiji Kawashima",
+	"shirt_number": 21,
+	"date_of_birth": "1983-03-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Frontale",
+		"country": "Japan"
+	},
+	"height": 185
+}, {
+	"id": "japan_22",
+	"country": "Japan",
+	"name": "Yuji Nakazawa",
+	"shirt_number": 22,
+	"date_of_birth": "1978-02-25",
+	"position": "Defender",
+	"club": {
+		"name": "Marinos",
+		"country": "Japan"
+	},
+	"height": 187
+}, {
+	"id": "japan_23",
+	"country": "Japan",
+	"name": "Yoshikatsu Kawaguchi",
+	"shirt_number": 23,
+	"date_of_birth": "1975-08-15",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Iwata",
+		"country": "Japan"
+	},
+	"height": 180
+}, {
+	"id": "korea_dpr_1",
+	"country": "Korea_dpr",
+	"name": "Ri Myong Guk",
+	"shirt_number": 1,
+	"date_of_birth": "1986-09-09",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "City",
+		"country": "North Korea"
+	},
+	"height": 187
+}, {
+	"id": "korea_dpr_2",
+	"country": "Korea_dpr",
+	"name": "Cha Jong Hyok",
+	"shirt_number": 2,
+	"date_of_birth": "1985-09-25",
+	"position": "Defender",
+	"club": {
+		"name": "Amrokgang",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_3",
+	"country": "Korea_dpr",
+	"name": "Ri Jun Il",
+	"shirt_number": 3,
+	"date_of_birth": "1987-08-24",
+	"position": "Defender",
+	"club": {
+		"name": "Sobaeksu",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_4",
+	"country": "Korea_dpr",
+	"name": "Pak Nam Chol",
+	"shirt_number": 4,
+	"date_of_birth": "1985-07-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 172
+}, {
+	"id": "korea_dpr_5",
+	"country": "Korea_dpr",
+	"name": "Ri Kwang Chon",
+	"shirt_number": 5,
+	"date_of_birth": "1985-09-04",
+	"position": "Defender",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 183
+}, {
+	"id": "korea_dpr_6",
+	"country": "Korea_dpr",
+	"name": "Kim Kum Il",
+	"shirt_number": 6,
+	"date_of_birth": "1987-10-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 170
+}, {
+	"id": "korea_dpr_7",
+	"country": "Korea_dpr",
+	"name": "An Chol Hyok",
+	"shirt_number": 7,
+	"date_of_birth": "1987-06-27",
+	"position": "Forward",
+	"club": {
+		"name": "Rimyongsu",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_8",
+	"country": "Korea_dpr",
+	"name": "Ji Yun Nam",
+	"shirt_number": 8,
+	"date_of_birth": "1976-11-20",
+	"position": "Defender",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 172
+}, {
+	"id": "korea_dpr_9",
+	"country": "Korea_dpr",
+	"name": "Jong Tae Se",
+	"shirt_number": 9,
+	"date_of_birth": "1984-03-02",
+	"position": "Forward",
+	"club": {
+		"name": "Frontale",
+		"country": "Japan"
+	},
+	"height": 181
+}, {
+	"id": "korea_dpr_10",
+	"country": "Korea_dpr",
+	"name": "Hong Yong Jo",
+	"shirt_number": 10,
+	"date_of_birth": "1982-05-22",
+	"position": "Forward",
+	"club": {
+		"name": "Rostov",
+		"country": "Russia"
+	},
+	"height": 174
+}, {
+	"id": "korea_dpr_11",
+	"country": "Korea_dpr",
+	"name": "Mun In Guk",
+	"shirt_number": 11,
+	"date_of_birth": "1978-09-29",
+	"position": "Midfielder",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 167
+}, {
+	"id": "korea_dpr_12",
+	"country": "Korea_dpr",
+	"name": "Choe Kum Chol",
+	"shirt_number": 12,
+	"date_of_birth": "1987-02-09",
+	"position": "Forward",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_13",
+	"country": "Korea_dpr",
+	"name": "Pak Chol Jin",
+	"shirt_number": 13,
+	"date_of_birth": "1985-09-05",
+	"position": "Defender",
+	"club": {
+		"name": "Amrokgang",
+		"country": "North Korea"
+	},
+	"height": 184
+}, {
+	"id": "korea_dpr_14",
+	"country": "Korea_dpr",
+	"name": "Pak Nam Chol",
+	"shirt_number": 14,
+	"date_of_birth": "1988-10-03",
+	"position": "Defender",
+	"club": {
+		"name": "Amrokgang",
+		"country": "North Korea"
+	},
+	"height": 183
+}, {
+	"id": "korea_dpr_15",
+	"country": "Korea_dpr",
+	"name": "Kim Yong Jun",
+	"shirt_number": 15,
+	"date_of_birth": "1983-07-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "North Korea"
+	},
+	"height": 182
+}, {
+	"id": "korea_dpr_16",
+	"country": "Korea_dpr",
+	"name": "Nam Song Chol",
+	"shirt_number": 16,
+	"date_of_birth": "1982-05-07",
+	"position": "Defender",
+	"club": {
+		"name": "25",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_17",
+	"country": "Korea_dpr",
+	"name": "An Yong Hak",
+	"shirt_number": 17,
+	"date_of_birth": "1978-10-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ardija",
+		"country": "Japan"
+	},
+	"height": 182
+}, {
+	"id": "korea_dpr_18",
+	"country": "Korea_dpr",
+	"name": "Kim Myong Gil",
+	"shirt_number": 18,
+	"date_of_birth": "1984-10-16",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Amrokgang",
+		"country": "North Korea"
+	},
+	"height": 181
+}, {
+	"id": "korea_dpr_19",
+	"country": "Korea_dpr",
+	"name": "Ri Chol Myong",
+	"shirt_number": 19,
+	"date_of_birth": "1988-02-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "North Korea"
+	},
+	"height": 173
+}, {
+	"id": "korea_dpr_20",
+	"country": "Korea_dpr",
+	"name": "Kim Myong Won",
+	"shirt_number": 20,
+	"date_of_birth": "1983-07-15",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Amrokgang",
+		"country": "North Korea"
+	},
+	"height": 180
+}, {
+	"id": "korea_dpr_21",
+	"country": "Korea_dpr",
+	"name": "Ri Kwang Hyok",
+	"shirt_number": 21,
+	"date_of_birth": "1987-08-17",
+	"position": "Defender",
+	"club": {
+		"name": "Kyonggongop",
+		"country": "North Korea"
+	},
+	"height": 178
+}, {
+	"id": "korea_dpr_22",
+	"country": "Korea_dpr",
+	"name": "Kim Kyong Il",
+	"shirt_number": 22,
+	"date_of_birth": "1988-12-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rimyongsu",
+		"country": "North Korea"
+	},
+	"height": 174
+}, {
+	"id": "korea_dpr_23",
+	"country": "Korea_dpr",
+	"name": "Pak Sung Hyok",
+	"shirt_number": 23,
+	"date_of_birth": "1990-05-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sobaeksu",
+		"country": "North Korea"
+	},
+	"height": 175
+}, {
+	"id": "korea_republic_1",
+	"country": "Korea_republic",
+	"name": "Lee Woon Jae",
+	"shirt_number": 1,
+	"date_of_birth": "1973-04-26",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Bluewings",
+		"country": "South Korea"
+	},
+	"height": 182
+}, {
+	"id": "korea_republic_2",
+	"country": "Korea_republic",
+	"name": "Oh Beom Seok",
+	"shirt_number": 2,
+	"date_of_birth": "1984-07-29",
+	"position": "Defender",
+	"club": {
+		"name": "Hyundai",
+		"country": "South Korea"
+	},
+	"height": 181
+}, {
+	"id": "korea_republic_3",
+	"country": "Korea_republic",
+	"name": "Kim Hyung Il",
+	"shirt_number": 3,
+	"date_of_birth": "1984-04-27",
+	"position": "Defender",
+	"club": {
+		"name": "Steelers",
+		"country": "South Korea"
+	},
+	"height": 187
+}, {
+	"id": "korea_republic_4",
+	"country": "Korea_republic",
+	"name": "Cho Yong Hyung",
+	"shirt_number": 4,
+	"date_of_birth": "1983-11-03",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "South Korea"
+	},
+	"height": 182
+}, {
+	"id": "korea_republic_5",
+	"country": "Korea_republic",
+	"name": "Kim Nam Il",
+	"shirt_number": 5,
+	"date_of_birth": "1977-03-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Tomsk",
+		"country": "Russia"
+	},
+	"height": 180
+}, {
+	"id": "korea_republic_6",
+	"country": "Korea_republic",
+	"name": "Kim Bo Kyung",
+	"shirt_number": 6,
+	"date_of_birth": "1989-10-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Trinita",
+		"country": "Japan"
+	},
+	"height": 178
+}, {
+	"id": "korea_republic_7",
+	"country": "Korea_republic",
+	"name": "Park Ji Sung",
+	"shirt_number": 7,
+	"date_of_birth": "1981-02-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "korea_republic_8",
+	"country": "Korea_republic",
+	"name": "Kim Jung Woo",
+	"shirt_number": 8,
+	"date_of_birth": "1982-05-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sangmu",
+		"country": "South Korea"
+	},
+	"height": 183
+}, {
+	"id": "korea_republic_9",
+	"country": "Korea_republic",
+	"name": "Ahn Jung Hwan",
+	"shirt_number": 9,
+	"date_of_birth": "1976-01-27",
+	"position": "Forward",
+	"club": {
+		"name": "Shide",
+		"country": "China"
+	},
+	"height": 177
+}, {
+	"id": "korea_republic_10",
+	"country": "Korea_republic",
+	"name": "Park Chu Young",
+	"shirt_number": 10,
+	"date_of_birth": "1985-07-10",
+	"position": "Forward",
+	"club": {
+		"name": "Monaco",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "korea_republic_11",
+	"country": "Korea_republic",
+	"name": "Lee Seung Yeoul",
+	"shirt_number": 11,
+	"date_of_birth": "1989-03-06",
+	"position": "Forward",
+	"club": {
+		"name": "Seoul",
+		"country": "South Korea"
+	},
+	"height": 183
+}, {
+	"id": "korea_republic_12",
+	"country": "Korea_republic",
+	"name": "Lee Young Pyo",
+	"shirt_number": 12,
+	"date_of_birth": "1977-04-23",
+	"position": "Defender",
+	"club": {
+		"name": "Hilal",
+		"country": "Kazakhstan"
+	},
+	"height": 177
+}, {
+	"id": "korea_republic_13",
+	"country": "Korea_republic",
+	"name": "Kim Jae Sung",
+	"shirt_number": 13,
+	"date_of_birth": "1983-10-03",
+	"position": "Midfielder",
+	"club": {
+		"name": "Steelers",
+		"country": "South Korea"
+	},
+	"height": 180
+}, {
+	"id": "korea_republic_14",
+	"country": "Korea_republic",
+	"name": "Lee Jung Soo",
+	"shirt_number": 14,
+	"date_of_birth": "1980-01-08",
+	"position": "Defender",
+	"club": {
+		"name": "Antlers",
+		"country": "Japan"
+	},
+	"height": 185
+}, {
+	"id": "korea_republic_15",
+	"country": "Korea_republic",
+	"name": "Kim Dong Jin",
+	"shirt_number": 15,
+	"date_of_birth": "1982-01-29",
+	"position": "Defender",
+	"club": {
+		"name": "Hyundai",
+		"country": "South Korea"
+	},
+	"height": 184
+}, {
+	"id": "korea_republic_16",
+	"country": "Korea_republic",
+	"name": "Ki Sung Yueng",
+	"shirt_number": 16,
+	"date_of_birth": "1989-01-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Celtic",
+		"country": "Scotland"
+	},
+	"height": 187
+}, {
+	"id": "korea_republic_17",
+	"country": "Korea_republic",
+	"name": "Lee Chung Yong",
+	"shirt_number": 17,
+	"date_of_birth": "1988-07-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wanderers",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "korea_republic_18",
+	"country": "Korea_republic",
+	"name": "Jung Sung Ryong",
+	"shirt_number": 18,
+	"date_of_birth": "1985-01-04",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Chunma",
+		"country": "South Korea"
+	},
+	"height": 190
+}, {
+	"id": "korea_republic_19",
+	"country": "Korea_republic",
+	"name": "Yeom Ki Hun",
+	"shirt_number": 19,
+	"date_of_birth": "1983-03-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bluewings",
+		"country": "South Korea"
+	},
+	"height": 182
+}, {
+	"id": "korea_republic_20",
+	"country": "Korea_republic",
+	"name": "Lee Dong Gook",
+	"shirt_number": 20,
+	"date_of_birth": "1979-04-29",
+	"position": "Forward",
+	"club": {
+		"name": "Motors",
+		"country": "South Korea"
+	},
+	"height": 187
+}, {
+	"id": "korea_republic_21",
+	"country": "Korea_republic",
+	"name": "Kim Young Kwang",
+	"shirt_number": 21,
+	"date_of_birth": "1983-06-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Hyundai",
+		"country": "South Korea"
+	},
+	"height": 184
+}, {
+	"id": "korea_republic_22",
+	"country": "Korea_republic",
+	"name": "Cha Du Ri",
+	"shirt_number": 22,
+	"date_of_birth": "1980-07-25",
+	"position": "Defender",
+	"club": {
+		"name": "Freiburg",
+		"country": "Germany"
+	},
+	"height": 181
+}, {
+	"id": "korea_republic_23",
+	"country": "Korea_republic",
+	"name": "Kang Min Soo",
+	"shirt_number": 23,
+	"date_of_birth": "1986-02-14",
+	"position": "Defender",
+	"club": {
+		"name": "Bluewings",
+		"country": "South Korea"
+	},
+	"height": 186
+}, {
+	"id": "mexico_1",
+	"country": "Mexico",
+	"name": "Oscar Perez",
+	"shirt_number": 1,
+	"date_of_birth": "1973-02-01",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Jaguares",
+		"country": "Mexico"
+	},
+	"height": 174
+}, {
+	"id": "mexico_2",
+	"country": "Mexico",
+	"name": "Francisco Rodriguez",
+	"shirt_number": 2,
+	"date_of_birth": "1981-10-20",
+	"position": "Defender",
+	"club": {
+		"name": "Eindhoven",
+		"country": "Netherlands"
+	},
+	"height": 191
+}, {
+	"id": "mexico_3",
+	"country": "Mexico",
+	"name": "Carlos Salcido",
+	"shirt_number": 3,
+	"date_of_birth": "1980-04-02",
+	"position": "Defender",
+	"club": {
+		"name": "Eindhoven",
+		"country": "Netherlands"
+	},
+	"height": 176
+}, {
+	"id": "mexico_4",
+	"country": "Mexico",
+	"name": "Rafael Marquez",
+	"shirt_number": 4,
+	"date_of_birth": "1979-02-13",
+	"position": "Defender",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 182
+}, {
+	"id": "mexico_5",
+	"country": "Mexico",
+	"name": "Ricardo Osorio",
+	"shirt_number": 5,
+	"date_of_birth": "1980-03-30",
+	"position": "Defender",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 173
+}, {
+	"id": "mexico_6",
+	"country": "Mexico",
+	"name": "Gerardo Torrado",
+	"shirt_number": 6,
+	"date_of_birth": "1979-04-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Azul",
+		"country": "Mexico"
+	},
+	"height": 174
+}, {
+	"id": "mexico_7",
+	"country": "Mexico",
+	"name": "Pablo Barrera",
+	"shirt_number": 7,
+	"date_of_birth": "1987-06-21",
+	"position": "Forward",
+	"club": {
+		"name": "UNAM",
+		"country": "Mexico"
+	},
+	"height": 172
+}, {
+	"id": "mexico_8",
+	"country": "Mexico",
+	"name": "Israel Castro",
+	"shirt_number": 8,
+	"date_of_birth": "1980-12-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "UNAM",
+		"country": "Mexico"
+	},
+	"height": 175
+}, {
+	"id": "mexico_9",
+	"country": "Mexico",
+	"name": "Guillermo Franco",
+	"shirt_number": 9,
+	"date_of_birth": "1976-11-03",
+	"position": "Forward",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "mexico_10",
+	"country": "Mexico",
+	"name": "Cuauhtemoc Blanco",
+	"shirt_number": 10,
+	"date_of_birth": "1973-01-17",
+	"position": "Forward",
+	"club": {
+		"name": "Veracruz",
+		"country": "Mexico"
+	},
+	"height": 177
+}, {
+	"id": "mexico_11",
+	"country": "Mexico",
+	"name": "Carlos Vela",
+	"shirt_number": 11,
+	"date_of_birth": "1989-03-01",
+	"position": "Forward",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 179
+}, {
+	"id": "mexico_12",
+	"country": "Mexico",
+	"name": "Paul Aguilar",
+	"shirt_number": 12,
+	"date_of_birth": "1986-03-06",
+	"position": "Defender",
+	"club": {
+		"name": "Pachuca",
+		"country": "Mexico"
+	},
+	"height": 178
+}, {
+	"id": "mexico_13",
+	"country": "Mexico",
+	"name": "Guillermo Ochoa",
+	"shirt_number": 13,
+	"date_of_birth": "1985-07-13",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "America",
+		"country": "Mexico"
+	},
+	"height": 183
+}, {
+	"id": "mexico_14",
+	"country": "Mexico",
+	"name": "Javier Hernandez",
+	"shirt_number": 14,
+	"date_of_birth": "1988-06-01",
+	"position": "Forward",
+	"club": {
+		"name": "Chivas",
+		"country": "Mexico"
+	},
+	"height": 175
+}, {
+	"id": "mexico_15",
+	"country": "Mexico",
+	"name": "Hector Moreno",
+	"shirt_number": 15,
+	"date_of_birth": "1988-01-17",
+	"position": "Defender",
+	"club": {
+		"name": "Alkmaar",
+		"country": "Netherlands"
+	},
+	"height": 184
+}, {
+	"id": "mexico_16",
+	"country": "Mexico",
+	"name": "Efrain Juarez",
+	"shirt_number": 16,
+	"date_of_birth": "1988-02-22",
+	"position": "Defender",
+	"club": {
+		"name": "UNAM",
+		"country": "Mexico"
+	},
+	"height": 175
+}, {
+	"id": "mexico_17",
+	"country": "Mexico",
+	"name": "Giovani Dos Santos",
+	"shirt_number": 17,
+	"date_of_birth": "1989-05-11",
+	"position": "Forward",
+	"club": {
+		"name": "Galatasaray",
+		"country": "Turkey"
+	},
+	"height": 175
+}, {
+	"id": "mexico_18",
+	"country": "Mexico",
+	"name": "Andres Guardado",
+	"shirt_number": 18,
+	"date_of_birth": "1986-09-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Coruna",
+		"country": "Spain"
+	},
+	"height": 169
+}, {
+	"id": "mexico_19",
+	"country": "Mexico",
+	"name": "Jonny Magallon",
+	"shirt_number": 19,
+	"date_of_birth": "1981-11-21",
+	"position": "Defender",
+	"club": {
+		"name": "Chivas",
+		"country": "Mexico"
+	},
+	"height": 178
+}, {
+	"id": "mexico_20",
+	"country": "Mexico",
+	"name": "Jorge Torres",
+	"shirt_number": 20,
+	"date_of_birth": "1988-01-16",
+	"position": "Midfielder",
+	"club": {
+		"name": "Atlas",
+		"country": "Mexico"
+	},
+	"height": 182
+}, {
+	"id": "mexico_21",
+	"country": "Mexico",
+	"name": "Adolfo Bautista",
+	"shirt_number": 21,
+	"date_of_birth": "1979-05-15",
+	"position": "Forward",
+	"club": {
+		"name": "Chivas",
+		"country": "Mexico"
+	},
+	"height": 185
+}, {
+	"id": "mexico_22",
+	"country": "Mexico",
+	"name": "Alberto Medina",
+	"shirt_number": 22,
+	"date_of_birth": "1983-05-29",
+	"position": "Forward",
+	"club": {
+		"name": "Chivas",
+		"country": "Mexico"
+	},
+	"height": 172
+}, {
+	"id": "mexico_23",
+	"country": "Mexico",
+	"name": "Luis Michel",
+	"shirt_number": 23,
+	"date_of_birth": "1979-07-21",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Chivas",
+		"country": "Mexico"
+	},
+	"height": 183
+}, {
+	"id": "netherlands_1",
+	"country": "Netherlands",
+	"name": "Maarten Stekelenburg",
+	"shirt_number": 1,
+	"date_of_birth": "1982-09-22",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 197
+}, {
+	"id": "netherlands_2",
+	"country": "Netherlands",
+	"name": "Gregory Van Der Wiel",
+	"shirt_number": 2,
+	"date_of_birth": "1988-02-03",
+	"position": "Defender",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 180
+}, {
+	"id": "netherlands_3",
+	"country": "Netherlands",
+	"name": "John Heitinga",
+	"shirt_number": 3,
+	"date_of_birth": "1983-11-15",
+	"position": "Defender",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "netherlands_4",
+	"country": "Netherlands",
+	"name": "Joris Mathijsen",
+	"shirt_number": 4,
+	"date_of_birth": "1980-04-05",
+	"position": "Defender",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 182
+}, {
+	"id": "netherlands_5",
+	"country": "Netherlands",
+	"name": "Giovanni Van Bronckhorst",
+	"shirt_number": 5,
+	"date_of_birth": "1975-02-05",
+	"position": "Defender",
+	"club": {
+		"name": "Feyenoord",
+		"country": "Netherlands"
+	},
+	"height": 176
+}, {
+	"id": "netherlands_6",
+	"country": "Netherlands",
+	"name": "Mark Van Bommel",
+	"shirt_number": 6,
+	"date_of_birth": "1977-04-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 187
+}, {
+	"id": "netherlands_7",
+	"country": "Netherlands",
+	"name": "Dirk Kuyt",
+	"shirt_number": 7,
+	"date_of_birth": "1980-07-22",
+	"position": "Forward",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "netherlands_8",
+	"country": "Netherlands",
+	"name": "Nigel De Jong",
+	"shirt_number": 8,
+	"date_of_birth": "1984-11-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 174
+}, {
+	"id": "netherlands_9",
+	"country": "Netherlands",
+	"name": "Robin Van Persie",
+	"shirt_number": 9,
+	"date_of_birth": "1983-08-06",
+	"position": "Forward",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 184
+}, {
+	"id": "netherlands_10",
+	"country": "Netherlands",
+	"name": "Wesley Sneijder",
+	"shirt_number": 10,
+	"date_of_birth": "1984-06-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 170
+}, {
+	"id": "netherlands_11",
+	"country": "Netherlands",
+	"name": "Arjen Robben",
+	"shirt_number": 11,
+	"date_of_birth": "1984-01-23",
+	"position": "Forward",
+	"club": {
+		"name": "Munich",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "netherlands_12",
+	"country": "Netherlands",
+	"name": "Khalid Boulahrouz",
+	"shirt_number": 12,
+	"date_of_birth": "1981-12-28",
+	"position": "Defender",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 184
+}, {
+	"id": "netherlands_13",
+	"country": "Netherlands",
+	"name": "Andre Ooijer",
+	"shirt_number": 13,
+	"date_of_birth": "1974-07-11",
+	"position": "Defender",
+	"club": {
+		"name": "Eindhoven",
+		"country": "Netherlands"
+	},
+	"height": 184
+}, {
+	"id": "netherlands_14",
+	"country": "Netherlands",
+	"name": "Demy De Zeeuw",
+	"shirt_number": 14,
+	"date_of_birth": "1983-05-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 174
+}, {
+	"id": "netherlands_15",
+	"country": "Netherlands",
+	"name": "Edson Braafheid",
+	"shirt_number": 15,
+	"date_of_birth": "1983-04-08",
+	"position": "Defender",
+	"club": {
+		"name": "Celtic",
+		"country": "Scotland"
+	},
+	"height": 174
+}, {
+	"id": "netherlands_16",
+	"country": "Netherlands",
+	"name": "Michel Vorm",
+	"shirt_number": 16,
+	"date_of_birth": "1983-10-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Utrecht",
+		"country": "Netherlands"
+	},
+	"height": 182
+}, {
+	"id": "netherlands_17",
+	"country": "Netherlands",
+	"name": "Eljero Elia",
+	"shirt_number": 17,
+	"date_of_birth": "1987-02-13",
+	"position": "Forward",
+	"club": {
+		"name": "SV",
+		"country": "Germany"
+	},
+	"height": 177
+}, {
+	"id": "netherlands_18",
+	"country": "Netherlands",
+	"name": "Stijn Schaars",
+	"shirt_number": 18,
+	"date_of_birth": "1984-01-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Alkmaar",
+		"country": "Netherlands"
+	},
+	"height": 178
+}, {
+	"id": "netherlands_19",
+	"country": "Netherlands",
+	"name": "Ryan Babel",
+	"shirt_number": 19,
+	"date_of_birth": "1986-12-19",
+	"position": "Forward",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "netherlands_20",
+	"country": "Netherlands",
+	"name": "Ibrahim Afellay",
+	"shirt_number": 20,
+	"date_of_birth": "1986-04-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Eindhoven",
+		"country": "Netherlands"
+	},
+	"height": 184
+}, {
+	"id": "netherlands_21",
+	"country": "Netherlands",
+	"name": "Klaas Jan Huntelaar",
+	"shirt_number": 21,
+	"date_of_birth": "1983-08-12",
+	"position": "Forward",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 185
+}, {
+	"id": "netherlands_22",
+	"country": "Netherlands",
+	"name": "Sander Boschker",
+	"shirt_number": 22,
+	"date_of_birth": "1970-10-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 185
+}, {
+	"id": "netherlands_23",
+	"country": "Netherlands",
+	"name": "Rafael Van Der Vaart",
+	"shirt_number": 23,
+	"date_of_birth": "1983-02-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 178
+}, {
+	"id": "new_zeland_1",
+	"country": "New_zeland",
+	"name": "Mark Paston",
+	"shirt_number": 1,
+	"date_of_birth": "1976-12-13",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Phoenix",
+		"country": "New Zeland"
+	},
+	"height": 195
+}, {
+	"id": "new_zeland_2",
+	"country": "New_zeland",
+	"name": "Ben Sigmund",
+	"shirt_number": 2,
+	"date_of_birth": "1981-02-03",
+	"position": "Defender",
+	"club": {
+		"name": "Phoenix",
+		"country": "New Zeland"
+	},
+	"height": 187
+}, {
+	"id": "new_zeland_3",
+	"country": "New_zeland",
+	"name": "Tony Lochhead",
+	"shirt_number": 3,
+	"date_of_birth": "1982-01-12",
+	"position": "Defender",
+	"club": {
+		"name": "Phoenix",
+		"country": "New Zeland"
+	},
+	"height": 183
+}, {
+	"id": "new_zeland_4",
+	"country": "New_zeland",
+	"name": "Winston Reid",
+	"shirt_number": 4,
+	"date_of_birth": "1988-07-03",
+	"position": "Defender",
+	"club": {
+		"name": "Midtjylland",
+		"country": "Denmark"
+	},
+	"height": 190
+}, {
+	"id": "new_zeland_5",
+	"country": "New_zeland",
+	"name": "Ivan Vicelich",
+	"shirt_number": 5,
+	"date_of_birth": "1976-09-03",
+	"position": "Defender",
+	"club": {
+		"name": "City",
+		"country": "New Zeland"
+	},
+	"height": 193
+}, {
+	"id": "new_zeland_6",
+	"country": "New_zeland",
+	"name": "Ryan Nelsen",
+	"shirt_number": 6,
+	"date_of_birth": "1977-10-18",
+	"position": "Defender",
+	"club": {
+		"name": "Rovers",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "new_zeland_7",
+	"country": "New_zeland",
+	"name": "Simon Elliott",
+	"shirt_number": 7,
+	"date_of_birth": "1974-06-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "affiliation",
+		"country": "Unknown"
+	},
+	"height": 180
+}, {
+	"id": "new_zeland_8",
+	"country": "New_zeland",
+	"name": "Tim Brown",
+	"shirt_number": 8,
+	"date_of_birth": "1981-03-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Phoenix",
+		"country": "New Zeland"
+	},
+	"height": 185
+}, {
+	"id": "new_zeland_9",
+	"country": "New_zeland",
+	"name": "Shane Smeltz",
+	"shirt_number": 9,
+	"date_of_birth": "1981-09-29",
+	"position": "Forward",
+	"club": {
+		"name": "United",
+		"country": "Australia"
+	},
+	"height": 184
+}, {
+	"id": "new_zeland_10",
+	"country": "New_zeland",
+	"name": "Chris Killen",
+	"shirt_number": 10,
+	"date_of_birth": "1981-10-08",
+	"position": "Forward",
+	"club": {
+		"name": "Middlesbrough",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "new_zeland_11",
+	"country": "New_zeland",
+	"name": "Leo Bertos",
+	"shirt_number": 11,
+	"date_of_birth": "1981-12-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Phoenix",
+		"country": "New Zeland"
+	},
+	"height": 177
+}, {
+	"id": "new_zeland_12",
+	"country": "New_zeland",
+	"name": "Glen Moss",
+	"shirt_number": 12,
+	"date_of_birth": "1983-01-19",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Victory",
+		"country": "Australia"
+	},
+	"height": 188
+}, {
+	"id": "new_zeland_13",
+	"country": "New_zeland",
+	"name": "Andy Barron",
+	"shirt_number": 13,
+	"date_of_birth": "1980-12-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wellington",
+		"country": "New Zeland"
+	},
+	"height": 178
+}, {
+	"id": "new_zeland_14",
+	"country": "New_zeland",
+	"name": "Rory Fallon",
+	"shirt_number": 14,
+	"date_of_birth": "1982-03-20",
+	"position": "Forward",
+	"club": {
+		"name": "Argyle",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "new_zeland_15",
+	"country": "New_zeland",
+	"name": "Michael Mcglinchey",
+	"shirt_number": 15,
+	"date_of_birth": "1987-01-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Motherwell",
+		"country": "Scotland"
+	},
+	"height": 173
+}, {
+	"id": "new_zeland_16",
+	"country": "New_zeland",
+	"name": "Aaron Clapham",
+	"shirt_number": 16,
+	"date_of_birth": "1987-01-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Utd",
+		"country": "New Zeland"
+	},
+	"height": 172
+}, {
+	"id": "new_zeland_17",
+	"country": "New_zeland",
+	"name": "Dave Mulligan",
+	"shirt_number": 17,
+	"date_of_birth": "1982-03-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "affiliation",
+		"country": "Unknown"
+	},
+	"height": 173
+}, {
+	"id": "new_zeland_18",
+	"country": "New_zeland",
+	"name": "Andy Boyens",
+	"shirt_number": 18,
+	"date_of_birth": "1983-09-18",
+	"position": "Defender",
+	"club": {
+		"name": "Bulls",
+		"country": "United States"
+	},
+	"height": 192
+}, {
+	"id": "new_zeland_19",
+	"country": "New_zeland",
+	"name": "Tommy Smith",
+	"shirt_number": 19,
+	"date_of_birth": "1990-03-31",
+	"position": "Defender",
+	"club": {
+		"name": "Town",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "new_zeland_20",
+	"country": "New_zeland",
+	"name": "Chris Wood",
+	"shirt_number": 20,
+	"date_of_birth": "1991-12-07",
+	"position": "Forward",
+	"club": {
+		"name": "Albion",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "new_zeland_21",
+	"country": "New_zeland",
+	"name": "Jeremy Christie",
+	"shirt_number": 21,
+	"date_of_birth": "1983-05-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bay",
+		"country": "United States"
+	},
+	"height": 180
+}, {
+	"id": "new_zeland_22",
+	"country": "New_zeland",
+	"name": "Jeremy Brockie",
+	"shirt_number": 22,
+	"date_of_birth": "1987-10-07",
+	"position": "Forward",
+	"club": {
+		"name": "Fury",
+		"country": "Australia"
+	},
+	"height": 182
+}, {
+	"id": "new_zeland_23",
+	"country": "New_zeland",
+	"name": "James Bannatyne",
+	"shirt_number": 23,
+	"date_of_birth": "1975-06-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Wellington",
+		"country": "New Zeland"
+	},
+	"height": 195
+}, {
+	"id": "nigeria_1",
+	"country": "Nigeria",
+	"name": "Vincent Enyeama",
+	"shirt_number": 1,
+	"date_of_birth": "1982-08-29",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Aviv",
+		"country": "Israel"
+	},
+	"height": 185
+}, {
+	"id": "nigeria_2",
+	"country": "Nigeria",
+	"name": "Joseph Yobo",
+	"shirt_number": 2,
+	"date_of_birth": "1980-09-06",
+	"position": "Defender",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "nigeria_3",
+	"country": "Nigeria",
+	"name": "Taye Taiwo",
+	"shirt_number": 3,
+	"date_of_birth": "1985-04-16",
+	"position": "Defender",
+	"club": {
+		"name": "Marseille",
+		"country": "France"
+	},
+	"height": 188
+}, {
+	"id": "nigeria_4",
+	"country": "Nigeria",
+	"name": "Nwankwo Kanu",
+	"shirt_number": 4,
+	"date_of_birth": "1976-08-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 197
+}, {
+	"id": "nigeria_5",
+	"country": "Nigeria",
+	"name": "Rabiu Afolabi",
+	"shirt_number": 5,
+	"date_of_birth": "1980-04-18",
+	"position": "Defender",
+	"club": {
+		"name": "Salzburg",
+		"country": "Austria"
+	},
+	"height": 183
+}, {
+	"id": "nigeria_6",
+	"country": "Nigeria",
+	"name": "Danny Shittu",
+	"shirt_number": 6,
+	"date_of_birth": "1980-09-02",
+	"position": "Defender",
+	"club": {
+		"name": "Wanderers",
+		"country": "England"
+	},
+	"height": 190
+}, {
+	"id": "nigeria_7",
+	"country": "Nigeria",
+	"name": "John Utaka",
+	"shirt_number": 7,
+	"date_of_birth": "1982-01-08",
+	"position": "Forward",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 179
+}, {
+	"id": "nigeria_8",
+	"country": "Nigeria",
+	"name": "Yakubu Ayegbeni",
+	"shirt_number": 8,
+	"date_of_birth": "1982-11-22",
+	"position": "Forward",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "nigeria_9",
+	"country": "Nigeria",
+	"name": "Obafemi Martins",
+	"shirt_number": 9,
+	"date_of_birth": "1984-10-28",
+	"position": "Forward",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 170
+}, {
+	"id": "nigeria_10",
+	"country": "Nigeria",
+	"name": "Brown Ideye",
+	"shirt_number": 10,
+	"date_of_birth": "1988-10-10",
+	"position": "Forward",
+	"club": {
+		"name": "Sochaux",
+		"country": "France"
+	},
+	"height": 180
+}, {
+	"id": "nigeria_11",
+	"country": "Nigeria",
+	"name": "Peter Odemwingie",
+	"shirt_number": 11,
+	"date_of_birth": "1981-07-15",
+	"position": "Forward",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 181
+}, {
+	"id": "nigeria_12",
+	"country": "Nigeria",
+	"name": "Kalu Uche",
+	"shirt_number": 12,
+	"date_of_birth": "1982-11-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Almeria",
+		"country": "Spain"
+	},
+	"height": 171
+}, {
+	"id": "nigeria_13",
+	"country": "Nigeria",
+	"name": "Yussuf Ayila",
+	"shirt_number": 13,
+	"date_of_birth": "1984-11-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Kyiv",
+		"country": "Ukraine"
+	},
+	"height": 179
+}, {
+	"id": "nigeria_14",
+	"country": "Nigeria",
+	"name": "Sani Kaita",
+	"shirt_number": 14,
+	"date_of_birth": "1986-05-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Vladikavkaz",
+		"country": "Russia"
+	},
+	"height": 180
+}, {
+	"id": "nigeria_15",
+	"country": "Nigeria",
+	"name": "Lukman Haruna",
+	"shirt_number": 15,
+	"date_of_birth": "1990-12-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Monaco",
+		"country": "France"
+	},
+	"height": 177
+}, {
+	"id": "nigeria_16",
+	"country": "Nigeria",
+	"name": "Austin Ejide",
+	"shirt_number": 16,
+	"date_of_birth": "1984-04-08",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Tikva",
+		"country": "Israel"
+	},
+	"height": 186
+}, {
+	"id": "nigeria_17",
+	"country": "Nigeria",
+	"name": "Chidi Odiah",
+	"shirt_number": 17,
+	"date_of_birth": "1983-12-17",
+	"position": "Defender",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 181
+}, {
+	"id": "nigeria_18",
+	"country": "Nigeria",
+	"name": "Victor Obinna",
+	"shirt_number": 18,
+	"date_of_birth": "1987-03-25",
+	"position": "Forward",
+	"club": {
+		"name": "Malaga",
+		"country": "Spain"
+	},
+	"height": 178
+}, {
+	"id": "nigeria_19",
+	"country": "Nigeria",
+	"name": "Chinedu Ogbuke Obasi",
+	"shirt_number": 19,
+	"date_of_birth": "1986-06-01",
+	"position": "Forward",
+	"club": {
+		"name": "Hoffenheim",
+		"country": "Germany"
+	},
+	"height": 181
+}, {
+	"id": "nigeria_20",
+	"country": "Nigeria",
+	"name": "Dickson Etuhu",
+	"shirt_number": 20,
+	"date_of_birth": "1982-06-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Fulham",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "nigeria_21",
+	"country": "Nigeria",
+	"name": "Uwa Echiejile",
+	"shirt_number": 21,
+	"date_of_birth": "1988-01-20",
+	"position": "Defender",
+	"club": {
+		"name": "Rennes",
+		"country": "France"
+	},
+	"height": 198
+}, {
+	"id": "nigeria_22",
+	"country": "Nigeria",
+	"name": "Dele Adeleye",
+	"shirt_number": 22,
+	"date_of_birth": "1988-12-25",
+	"position": "Defender",
+	"club": {
+		"name": "Rotterdam",
+		"country": "Netherlands"
+	},
+	"height": 189
+}, {
+	"id": "nigeria_23",
+	"country": "Nigeria",
+	"name": "Dele Aiyenugba",
+	"shirt_number": 23,
+	"date_of_birth": "1983-11-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Yehuda",
+		"country": "Israel"
+	},
+	"height": 186
+}, {
+	"id": "paraguay_1",
+	"country": "Paraguay",
+	"name": "Justo Villar",
+	"shirt_number": 1,
+	"date_of_birth": "1977-06-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Valladolid",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "paraguay_2",
+	"country": "Paraguay",
+	"name": "Dario Veron",
+	"shirt_number": 2,
+	"date_of_birth": "1979-07-26",
+	"position": "Defender",
+	"club": {
+		"name": "UNAM",
+		"country": "Mexico"
+	},
+	"height": 181
+}, {
+	"id": "paraguay_3",
+	"country": "Paraguay",
+	"name": "Claudio Morel",
+	"shirt_number": 3,
+	"date_of_birth": "1978-02-02",
+	"position": "Defender",
+	"club": {
+		"name": "Juniors",
+		"country": "Argentina"
+	},
+	"height": 175
+}, {
+	"id": "paraguay_4",
+	"country": "Paraguay",
+	"name": "Denis Caniza",
+	"shirt_number": 4,
+	"date_of_birth": "1974-08-29",
+	"position": "Defender",
+	"club": {
+		"name": "Leon",
+		"country": "Mexico"
+	},
+	"height": 174
+}, {
+	"id": "paraguay_5",
+	"country": "Paraguay",
+	"name": "Julio Cesar Caceres",
+	"shirt_number": 5,
+	"date_of_birth": "1979-10-05",
+	"position": "Defender",
+	"club": {
+		"name": "Mineiro",
+		"country": "Brazil"
+	},
+	"height": 181
+}, {
+	"id": "paraguay_6",
+	"country": "Paraguay",
+	"name": "Carlos Bonet",
+	"shirt_number": 6,
+	"date_of_birth": "1977-10-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Asuncion",
+		"country": "Paraguay"
+	},
+	"height": 176
+}, {
+	"id": "paraguay_7",
+	"country": "Paraguay",
+	"name": "Oscar Cardozo",
+	"shirt_number": 7,
+	"date_of_birth": "1983-05-20",
+	"position": "Forward",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 192
+}, {
+	"id": "paraguay_8",
+	"country": "Paraguay",
+	"name": "Edgar Barreto",
+	"shirt_number": 8,
+	"date_of_birth": "1984-07-15",
+	"position": "Midfielder",
+	"club": {
+		"name": "Atalanta",
+		"country": "Italy"
+	},
+	"height": 178
+}, {
+	"id": "paraguay_9",
+	"country": "Paraguay",
+	"name": "Roque Santa Cruz",
+	"shirt_number": 9,
+	"date_of_birth": "1981-08-16",
+	"position": "Forward",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 191
+}, {
+	"id": "paraguay_10",
+	"country": "Paraguay",
+	"name": "Edgar Benitez",
+	"shirt_number": 10,
+	"date_of_birth": "1987-11-08",
+	"position": "Forward",
+	"club": {
+		"name": "Pachuca",
+		"country": "Mexico"
+	},
+	"height": 176
+}, {
+	"id": "paraguay_11",
+	"country": "Paraguay",
+	"name": "Jonathan Santana",
+	"shirt_number": 11,
+	"date_of_birth": "1981-10-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 181
+}, {
+	"id": "paraguay_12",
+	"country": "Paraguay",
+	"name": "Diego Barreto",
+	"shirt_number": 12,
+	"date_of_birth": "1981-07-16",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Porteno",
+		"country": "Paraguay"
+	},
+	"height": 182
+}, {
+	"id": "paraguay_13",
+	"country": "Paraguay",
+	"name": "Enrique Vera",
+	"shirt_number": 13,
+	"date_of_birth": "1979-03-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "Quito",
+		"country": "Ecuador"
+	},
+	"height": 178
+}, {
+	"id": "paraguay_14",
+	"country": "Paraguay",
+	"name": "Paulo Da Silva",
+	"shirt_number": 14,
+	"date_of_birth": "1980-02-01",
+	"position": "Defender",
+	"club": {
+		"name": "Sunderland",
+		"country": "England"
+	},
+	"height": 184
+}, {
+	"id": "paraguay_15",
+	"country": "Paraguay",
+	"name": "Victor Caceres",
+	"shirt_number": 15,
+	"date_of_birth": "1985-03-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Libertad",
+		"country": "Paraguay"
+	},
+	"height": 186
+}, {
+	"id": "paraguay_16",
+	"country": "Paraguay",
+	"name": "Cristian Riveros",
+	"shirt_number": 16,
+	"date_of_birth": "1982-10-16",
+	"position": "Midfielder",
+	"club": {
+		"name": "Azul",
+		"country": "Mexico"
+	},
+	"height": 179
+}, {
+	"id": "paraguay_17",
+	"country": "Paraguay",
+	"name": "Aureliano Torres",
+	"shirt_number": 17,
+	"date_of_birth": "1982-06-16",
+	"position": "Defender",
+	"club": {
+		"name": "Lorenzo",
+		"country": "Argentina"
+	},
+	"height": 178
+}, {
+	"id": "paraguay_18",
+	"country": "Paraguay",
+	"name": "Nelson Valdez",
+	"shirt_number": 18,
+	"date_of_birth": "1983-11-28",
+	"position": "Forward",
+	"club": {
+		"name": "Dortmund",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "paraguay_19",
+	"country": "Paraguay",
+	"name": "Lucas Barrios",
+	"shirt_number": 19,
+	"date_of_birth": "1984-11-13",
+	"position": "Forward",
+	"club": {
+		"name": "Dortmund",
+		"country": "Germany"
+	},
+	"height": 187
+}, {
+	"id": "paraguay_20",
+	"country": "Paraguay",
+	"name": "Nestor Ortigoza",
+	"shirt_number": 20,
+	"date_of_birth": "1984-10-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Juniors",
+		"country": "Argentina"
+	},
+	"height": 180
+}, {
+	"id": "paraguay_21",
+	"country": "Paraguay",
+	"name": "Antolin Alcaraz",
+	"shirt_number": 21,
+	"date_of_birth": "1982-07-30",
+	"position": "Defender",
+	"club": {
+		"name": "Brugge",
+		"country": "Belgium"
+	},
+	"height": 184
+}, {
+	"id": "paraguay_22",
+	"country": "Paraguay",
+	"name": "Aldo Bobadilla",
+	"shirt_number": 22,
+	"date_of_birth": "1976-04-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Medellin",
+		"country": "Colombia"
+	},
+	"height": 192
+}, {
+	"id": "paraguay_23",
+	"country": "Paraguay",
+	"name": "Rodolfo Gamarra",
+	"shirt_number": 23,
+	"date_of_birth": "1988-12-10",
+	"position": "Forward",
+	"club": {
+		"name": "Libertad",
+		"country": "Paraguay"
+	},
+	"height": 168
+}, {
+	"id": "portugal_1",
+	"country": "Portugal",
+	"name": "Eduardo",
+	"shirt_number": 1,
+	"date_of_birth": "1982-09-19",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Braga",
+		"country": "Portugal"
+	},
+	"height": 187
+}, {
+	"id": "portugal_2",
+	"country": "Portugal",
+	"name": "Bruno Alves",
+	"shirt_number": 2,
+	"date_of_birth": "1981-11-27",
+	"position": "Defender",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 187
+}, {
+	"id": "portugal_3",
+	"country": "Portugal",
+	"name": "Paulo Ferreira",
+	"shirt_number": 3,
+	"date_of_birth": "1979-01-18",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 181
+}, {
+	"id": "portugal_4",
+	"country": "Portugal",
+	"name": "Rolando",
+	"shirt_number": 4,
+	"date_of_birth": "1985-08-31",
+	"position": "Defender",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 189
+}, {
+	"id": "portugal_5",
+	"country": "Portugal",
+	"name": "Duda",
+	"shirt_number": 5,
+	"date_of_birth": "1980-06-27",
+	"position": "Defender",
+	"club": {
+		"name": "Malaga",
+		"country": "Spain"
+	},
+	"height": 175
+}, {
+	"id": "portugal_6",
+	"country": "Portugal",
+	"name": "Ricardo Carvalho",
+	"shirt_number": 6,
+	"date_of_birth": "1978-05-18",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "portugal_7",
+	"country": "Portugal",
+	"name": "Cristiano Ronaldo",
+	"shirt_number": 7,
+	"date_of_birth": "1985-02-05",
+	"position": "Forward",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 185
+}, {
+	"id": "portugal_8",
+	"country": "Portugal",
+	"name": "Pedro Mendes",
+	"shirt_number": 8,
+	"date_of_birth": "1979-02-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lisbon",
+		"country": "Portugal"
+	},
+	"height": 177
+}, {
+	"id": "portugal_9",
+	"country": "Portugal",
+	"name": "Liedson",
+	"shirt_number": 9,
+	"date_of_birth": "1977-12-17",
+	"position": "Forward",
+	"club": {
+		"name": "Lisbon",
+		"country": "Portugal"
+	},
+	"height": 173
+}, {
+	"id": "portugal_10",
+	"country": "Portugal",
+	"name": "Danny",
+	"shirt_number": 10,
+	"date_of_birth": "1983-08-07",
+	"position": "Forward",
+	"club": {
+		"name": "Petersburg",
+		"country": "Russia"
+	},
+	"height": 179
+}, {
+	"id": "portugal_11",
+	"country": "Portugal",
+	"name": "Simao",
+	"shirt_number": 11,
+	"date_of_birth": "1979-10-31",
+	"position": "Forward",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "portugal_12",
+	"country": "Portugal",
+	"name": "Beto",
+	"shirt_number": 12,
+	"date_of_birth": "1982-05-01",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 183
+}, {
+	"id": "portugal_13",
+	"country": "Portugal",
+	"name": "Miguel",
+	"shirt_number": 13,
+	"date_of_birth": "1980-01-04",
+	"position": "Defender",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 175
+}, {
+	"id": "portugal_14",
+	"country": "Portugal",
+	"name": "Miguel Veloso",
+	"shirt_number": 14,
+	"date_of_birth": "1986-05-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lisbon",
+		"country": "Portugal"
+	},
+	"height": 181
+}, {
+	"id": "portugal_15",
+	"country": "Portugal",
+	"name": "Pepe",
+	"shirt_number": 15,
+	"date_of_birth": "1983-02-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 186
+}, {
+	"id": "portugal_16",
+	"country": "Portugal",
+	"name": "Raul Meireles",
+	"shirt_number": 16,
+	"date_of_birth": "1983-03-17",
+	"position": "Midfielder",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 179
+}, {
+	"id": "portugal_17",
+	"country": "Portugal",
+	"name": "Ruben Amorim",
+	"shirt_number": 17,
+	"date_of_birth": "1985-01-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 180
+}, {
+	"id": "portugal_18",
+	"country": "Portugal",
+	"name": "Hugo Almeida",
+	"shirt_number": 18,
+	"date_of_birth": "1984-05-23",
+	"position": "Forward",
+	"club": {
+		"name": "Bremen",
+		"country": "Germany"
+	},
+	"height": 193
+}, {
+	"id": "portugal_19",
+	"country": "Portugal",
+	"name": "Tiago",
+	"shirt_number": 19,
+	"date_of_birth": "1981-05-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "portugal_20",
+	"country": "Portugal",
+	"name": "Deco",
+	"shirt_number": 20,
+	"date_of_birth": "1977-08-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "portugal_21",
+	"country": "Portugal",
+	"name": "Ricardo Costa",
+	"shirt_number": 21,
+	"date_of_birth": "1981-05-16",
+	"position": "Defender",
+	"club": {
+		"name": "Lille",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "portugal_22",
+	"country": "Portugal",
+	"name": "Daniel Fernandes",
+	"shirt_number": 22,
+	"date_of_birth": "1983-09-25",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Iraklis",
+		"country": "Greece"
+	},
+	"height": 194
+}, {
+	"id": "portugal_23",
+	"country": "Portugal",
+	"name": "Fabio Coentrao",
+	"shirt_number": 23,
+	"date_of_birth": "1988-03-11",
+	"position": "Defender",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 181
+}, {
+	"id": "serbia_1",
+	"country": "Serbia",
+	"name": "Vladimir Stojkovic",
+	"shirt_number": 1,
+	"date_of_birth": "1983-07-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Wigan",
+		"country": "England"
+	},
+	"height": 195
+}, {
+	"id": "serbia_2",
+	"country": "Serbia",
+	"name": "Antonio Rukavina",
+	"shirt_number": 2,
+	"date_of_birth": "1984-01-26",
+	"position": "Defender",
+	"club": {
+		"name": "1860",
+		"country": "Germany"
+	},
+	"height": 177
+}, {
+	"id": "serbia_3",
+	"country": "Serbia",
+	"name": "Aleksandar Kolarov",
+	"shirt_number": 3,
+	"date_of_birth": "1985-11-10",
+	"position": "Defender",
+	"club": {
+		"name": "Lazio",
+		"country": "Italy"
+	},
+	"height": 187
+}, {
+	"id": "serbia_4",
+	"country": "Serbia",
+	"name": "Gojko Kacar",
+	"shirt_number": 4,
+	"date_of_birth": "1987-01-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Berlin",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "serbia_5",
+	"country": "Serbia",
+	"name": "Nemanja Vidic",
+	"shirt_number": 5,
+	"date_of_birth": "1981-10-21",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "serbia_6",
+	"country": "Serbia",
+	"name": "Branislav Ivanovic",
+	"shirt_number": 6,
+	"date_of_birth": "1984-02-22",
+	"position": "Defender",
+	"club": {
+		"name": "Chelsea",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "serbia_7",
+	"country": "Serbia",
+	"name": "Zoran Tosic",
+	"shirt_number": 7,
+	"date_of_birth": "1987-04-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Cologne",
+		"country": "Germany"
+	},
+	"height": 171
+}, {
+	"id": "serbia_8",
+	"country": "Serbia",
+	"name": "Danko Lazovic",
+	"shirt_number": 8,
+	"date_of_birth": "1983-05-17",
+	"position": "Forward",
+	"club": {
+		"name": "Petersburg",
+		"country": "Russia"
+	},
+	"height": 185
+}, {
+	"id": "serbia_9",
+	"country": "Serbia",
+	"name": "Marko Pantelic",
+	"shirt_number": 9,
+	"date_of_birth": "1978-09-15",
+	"position": "Forward",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 181
+}, {
+	"id": "serbia_10",
+	"country": "Serbia",
+	"name": "Dejan Stankovic",
+	"shirt_number": 10,
+	"date_of_birth": "1978-09-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 181
+}, {
+	"id": "serbia_11",
+	"country": "Serbia",
+	"name": "Nenad Milijas",
+	"shirt_number": 11,
+	"date_of_birth": "1983-04-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wolverhampton",
+		"country": "England"
+	},
+	"height": 182
+}, {
+	"id": "serbia_12",
+	"country": "Serbia",
+	"name": "Bojan Isailovic",
+	"shirt_number": 12,
+	"date_of_birth": "1980-03-25",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Lubin",
+		"country": "Poland"
+	},
+	"height": 192
+}, {
+	"id": "serbia_13",
+	"country": "Serbia",
+	"name": "Aleksandar Lukovic",
+	"shirt_number": 13,
+	"date_of_birth": "1982-10-23",
+	"position": "Defender",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 184
+}, {
+	"id": "serbia_14",
+	"country": "Serbia",
+	"name": "Milan Jovanovic",
+	"shirt_number": 14,
+	"date_of_birth": "1981-04-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Liege",
+		"country": "Belgium"
+	},
+	"height": 183
+}, {
+	"id": "serbia_15",
+	"country": "Serbia",
+	"name": "Nikola Zigic",
+	"shirt_number": 15,
+	"date_of_birth": "1980-09-25",
+	"position": "Forward",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 202
+}, {
+	"id": "serbia_16",
+	"country": "Serbia",
+	"name": "Ivan Obradovic",
+	"shirt_number": 16,
+	"date_of_birth": "1988-07-25",
+	"position": "Defender",
+	"club": {
+		"name": "Zaragoza",
+		"country": "Spain"
+	},
+	"height": 181
+}, {
+	"id": "serbia_17",
+	"country": "Serbia",
+	"name": "Milos Krasic",
+	"shirt_number": 17,
+	"date_of_birth": "1984-11-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 185
+}, {
+	"id": "serbia_18",
+	"country": "Serbia",
+	"name": "Milos Ninkovic",
+	"shirt_number": 18,
+	"date_of_birth": "1984-12-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Kyiv",
+		"country": "Ukraine"
+	},
+	"height": 179
+}, {
+	"id": "serbia_19",
+	"country": "Serbia",
+	"name": "Radosav Petrovic",
+	"shirt_number": 19,
+	"date_of_birth": "1989-03-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Partizan",
+		"country": "Serbia"
+	},
+	"height": 193
+}, {
+	"id": "serbia_20",
+	"country": "Serbia",
+	"name": "Neven Subotic",
+	"shirt_number": 20,
+	"date_of_birth": "1988-12-10",
+	"position": "Defender",
+	"club": {
+		"name": "Dortmund",
+		"country": "Germany"
+	},
+	"height": 193
+}, {
+	"id": "serbia_21",
+	"country": "Serbia",
+	"name": "Dragan Mrdja",
+	"shirt_number": 21,
+	"date_of_birth": "1984-01-23",
+	"position": "Forward",
+	"club": {
+		"name": "Sad",
+		"country": "Serbia"
+	},
+	"height": 187
+}, {
+	"id": "serbia_22",
+	"country": "Serbia",
+	"name": "Zdravko Kuzmanovic",
+	"shirt_number": 22,
+	"date_of_birth": "1987-09-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Stuttgart",
+		"country": "Germany"
+	},
+	"height": 187
+}, {
+	"id": "serbia_23",
+	"country": "Serbia",
+	"name": "Andjelko Djuricic",
+	"shirt_number": 23,
+	"date_of_birth": "1980-11-21",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Leiria",
+		"country": "Portugal"
+	},
+	"height": 194
+}, {
+	"id": "slovakia_1",
+	"country": "Slovakia",
+	"name": "Jan Mucha",
+	"shirt_number": 1,
+	"date_of_birth": "1982-12-05",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Warsaw",
+		"country": "Poland"
+	},
+	"height": 189
+}, {
+	"id": "slovakia_2",
+	"country": "Slovakia",
+	"name": "Peter Pekarik",
+	"shirt_number": 2,
+	"date_of_birth": "1986-10-30",
+	"position": "Defender",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 176
+}, {
+	"id": "slovakia_3",
+	"country": "Slovakia",
+	"name": "Martin Skrtel",
+	"shirt_number": 3,
+	"date_of_birth": "1984-12-15",
+	"position": "Defender",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 188
+}, {
+	"id": "slovakia_4",
+	"country": "Slovakia",
+	"name": "Marek Cech",
+	"shirt_number": 4,
+	"date_of_birth": "1983-01-26",
+	"position": "Defender",
+	"club": {
+		"name": "Albion",
+		"country": "England"
+	},
+	"height": 181
+}, {
+	"id": "slovakia_5",
+	"country": "Slovakia",
+	"name": "Radoslav Zabavnik",
+	"shirt_number": 5,
+	"date_of_birth": "1980-09-16",
+	"position": "Defender",
+	"club": {
+		"name": "05",
+		"country": "Germany"
+	},
+	"height": 180
+}, {
+	"id": "slovakia_6",
+	"country": "Slovakia",
+	"name": "Zdenko Strba",
+	"shirt_number": 6,
+	"date_of_birth": "1976-06-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Xanthi",
+		"country": "Greece"
+	},
+	"height": 187
+}, {
+	"id": "slovakia_7",
+	"country": "Slovakia",
+	"name": "Vladimir Weiss",
+	"shirt_number": 7,
+	"date_of_birth": "1989-11-30",
+	"position": "Midfielder",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 176
+}, {
+	"id": "slovakia_8",
+	"country": "Slovakia",
+	"name": "Jan Kozak",
+	"shirt_number": 8,
+	"date_of_birth": "1980-04-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Timisoara",
+		"country": "Romania"
+	},
+	"height": 192
+}, {
+	"id": "slovakia_9",
+	"country": "Slovakia",
+	"name": "Stanislav Sestak",
+	"shirt_number": 9,
+	"date_of_birth": "1982-12-16",
+	"position": "Forward",
+	"club": {
+		"name": "Bochum",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "slovakia_10",
+	"country": "Slovakia",
+	"name": "Marek Sapara",
+	"shirt_number": 10,
+	"date_of_birth": "1982-07-31",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ankaragucu",
+		"country": "Turkey"
+	},
+	"height": 176
+}, {
+	"id": "slovakia_11",
+	"country": "Slovakia",
+	"name": "Robert Vittek",
+	"shirt_number": 11,
+	"date_of_birth": "1982-04-01",
+	"position": "Forward",
+	"club": {
+		"name": "Ankaragucu",
+		"country": "Turkey"
+	},
+	"height": 188
+}, {
+	"id": "slovakia_12",
+	"country": "Slovakia",
+	"name": "Dusan Pernis",
+	"shirt_number": 12,
+	"date_of_birth": "1984-11-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Utd",
+		"country": "Scotland"
+	},
+	"height": 190
+}, {
+	"id": "slovakia_13",
+	"country": "Slovakia",
+	"name": "Filip Holosko",
+	"shirt_number": 13,
+	"date_of_birth": "1984-01-17",
+	"position": "Forward",
+	"club": {
+		"name": "Besiktas",
+		"country": "Turkey"
+	},
+	"height": 186
+}, {
+	"id": "slovakia_14",
+	"country": "Slovakia",
+	"name": "Martin Jakubko",
+	"shirt_number": 14,
+	"date_of_birth": "1980-02-26",
+	"position": "Forward",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 193
+}, {
+	"id": "slovakia_15",
+	"country": "Slovakia",
+	"name": "Miroslav Stoch",
+	"shirt_number": 15,
+	"date_of_birth": "1989-10-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 168
+}, {
+	"id": "slovakia_16",
+	"country": "Slovakia",
+	"name": "Jan Durica",
+	"shirt_number": 16,
+	"date_of_birth": "1981-12-10",
+	"position": "Defender",
+	"club": {
+		"name": "96",
+		"country": "Germany"
+	},
+	"height": 187
+}, {
+	"id": "slovakia_17",
+	"country": "Slovakia",
+	"name": "Marek Hamsik",
+	"shirt_number": 17,
+	"date_of_birth": "1987-07-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Napoli",
+		"country": "Italy"
+	},
+	"height": 184
+}, {
+	"id": "slovakia_18",
+	"country": "Slovakia",
+	"name": "Erik Jendrisek",
+	"shirt_number": 18,
+	"date_of_birth": "1986-10-26",
+	"position": "Forward",
+	"club": {
+		"name": "Kaiserslautern",
+		"country": "Germany"
+	},
+	"height": 176
+}, {
+	"id": "slovakia_19",
+	"country": "Slovakia",
+	"name": "Juraj Kucka",
+	"shirt_number": 19,
+	"date_of_birth": "1987-02-26",
+	"position": "Midfielder",
+	"club": {
+		"name": "Prague",
+		"country": "Czech Republic"
+	},
+	"height": 186
+}, {
+	"id": "slovakia_20",
+	"country": "Slovakia",
+	"name": "Kamil Kopunek",
+	"shirt_number": 20,
+	"date_of_birth": "1984-05-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Trnava",
+		"country": "Slovakia"
+	},
+	"height": 180
+}, {
+	"id": "slovakia_21",
+	"country": "Slovakia",
+	"name": "Kornel Salata",
+	"shirt_number": 21,
+	"date_of_birth": "1985-01-24",
+	"position": "Defender",
+	"club": {
+		"name": "Bratislava",
+		"country": "Slovakia"
+	},
+	"height": 190
+}, {
+	"id": "slovakia_22",
+	"country": "Slovakia",
+	"name": "Martin Petras",
+	"shirt_number": 22,
+	"date_of_birth": "1979-11-02",
+	"position": "Defender",
+	"club": {
+		"name": "Cesena",
+		"country": "Italy"
+	},
+	"height": 187
+}, {
+	"id": "slovakia_23",
+	"country": "Slovakia",
+	"name": "Dusan Kuciak",
+	"shirt_number": 23,
+	"date_of_birth": "1985-05-21",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Vaslui",
+		"country": "Romania"
+	},
+	"height": 195
+}, {
+	"id": "slovenia_1",
+	"country": "Slovenia",
+	"name": "Samir Handanovic",
+	"shirt_number": 1,
+	"date_of_birth": "1984-07-14",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 193
+}, {
+	"id": "slovenia_2",
+	"country": "Slovenia",
+	"name": "Miso Brecko",
+	"shirt_number": 2,
+	"date_of_birth": "1984-05-01",
+	"position": "Defender",
+	"club": {
+		"name": "Cologne",
+		"country": "Germany"
+	},
+	"height": 172
+}, {
+	"id": "slovenia_3",
+	"country": "Slovenia",
+	"name": "Elvedin Dzinic",
+	"shirt_number": 3,
+	"date_of_birth": "1985-08-25",
+	"position": "Defender",
+	"club": {
+		"name": "Maribor",
+		"country": "Slovenia"
+	},
+	"height": 189
+}, {
+	"id": "slovenia_4",
+	"country": "Slovenia",
+	"name": "Marko Suler",
+	"shirt_number": 4,
+	"date_of_birth": "1983-03-09",
+	"position": "Defender",
+	"club": {
+		"name": "Gent",
+		"country": "Belgium"
+	},
+	"height": 187
+}, {
+	"id": "slovenia_5",
+	"country": "Slovenia",
+	"name": "Bostjan Cesar",
+	"shirt_number": 5,
+	"date_of_birth": "1982-07-09",
+	"position": "Defender",
+	"club": {
+		"name": "Grenoble",
+		"country": "France"
+	},
+	"height": 190
+}, {
+	"id": "slovenia_6",
+	"country": "Slovenia",
+	"name": "Branko Ilic",
+	"shirt_number": 6,
+	"date_of_birth": "1983-02-06",
+	"position": "Defender",
+	"club": {
+		"name": "Moscow",
+		"country": "Russia"
+	},
+	"height": 186
+}, {
+	"id": "slovenia_7",
+	"country": "Slovenia",
+	"name": "Nejc Pecnik",
+	"shirt_number": 7,
+	"date_of_birth": "1986-01-03",
+	"position": "Forward",
+	"club": {
+		"name": "Madeira",
+		"country": "Portugal"
+	},
+	"height": 187
+}, {
+	"id": "slovenia_8",
+	"country": "Slovenia",
+	"name": "Robert Koren",
+	"shirt_number": 8,
+	"date_of_birth": "1980-09-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Albion",
+		"country": "England"
+	},
+	"height": 173
+}, {
+	"id": "slovenia_9",
+	"country": "Slovenia",
+	"name": "Zlatan Ljubijankic",
+	"shirt_number": 9,
+	"date_of_birth": "1983-12-15",
+	"position": "Forward",
+	"club": {
+		"name": "Gent",
+		"country": "Belgium"
+	},
+	"height": 185
+}, {
+	"id": "slovenia_10",
+	"country": "Slovenia",
+	"name": "Valter Birsa",
+	"shirt_number": 10,
+	"date_of_birth": "1986-08-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Auxerre",
+		"country": "France"
+	},
+	"height": 180
+}, {
+	"id": "slovenia_11",
+	"country": "Slovenia",
+	"name": "Milivoje Novakovic",
+	"shirt_number": 11,
+	"date_of_birth": "1979-05-18",
+	"position": "Forward",
+	"club": {
+		"name": "Cologne",
+		"country": "Germany"
+	},
+	"height": 191
+}, {
+	"id": "slovenia_12",
+	"country": "Slovenia",
+	"name": "Jasmin Handanovic",
+	"shirt_number": 12,
+	"date_of_birth": "1978-01-28",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Mantova",
+		"country": "Italy"
+	},
+	"height": 197
+}, {
+	"id": "slovenia_13",
+	"country": "Slovenia",
+	"name": "Bojan Jokic",
+	"shirt_number": 13,
+	"date_of_birth": "1986-05-17",
+	"position": "Defender",
+	"club": {
+		"name": "Chievo",
+		"country": "Italy"
+	},
+	"height": 171
+}, {
+	"id": "slovenia_14",
+	"country": "Slovenia",
+	"name": "Zlatko Dedic",
+	"shirt_number": 14,
+	"date_of_birth": "1984-10-05",
+	"position": "Forward",
+	"club": {
+		"name": "Bochum",
+		"country": "Germany"
+	},
+	"height": 172
+}, {
+	"id": "slovenia_15",
+	"country": "Slovenia",
+	"name": "Rene Krhin",
+	"shirt_number": 15,
+	"date_of_birth": "1990-05-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Inter",
+		"country": "Italy"
+	},
+	"height": 184
+}, {
+	"id": "slovenia_16",
+	"country": "Slovenia",
+	"name": "Aleksander Seliga",
+	"shirt_number": 16,
+	"date_of_birth": "1980-02-01",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Rotterdam",
+		"country": "Netherlands"
+	},
+	"height": 187
+}, {
+	"id": "slovenia_17",
+	"country": "Slovenia",
+	"name": "Andraz Kirm",
+	"shirt_number": 17,
+	"date_of_birth": "1984-09-06",
+	"position": "Midfielder",
+	"club": {
+		"name": "Krakow",
+		"country": "Poland"
+	},
+	"height": 185
+}, {
+	"id": "slovenia_18",
+	"country": "Slovenia",
+	"name": "Aleksandar Radosavljevic",
+	"shirt_number": 18,
+	"date_of_birth": "1979-04-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Larissa",
+		"country": "Greece"
+	},
+	"height": 181
+}, {
+	"id": "slovenia_19",
+	"country": "Slovenia",
+	"name": "Suad Filekovic",
+	"shirt_number": 19,
+	"date_of_birth": "1978-09-16",
+	"position": "Defender",
+	"club": {
+		"name": "Maribor",
+		"country": "Slovenia"
+	},
+	"height": 190
+}, {
+	"id": "slovenia_20",
+	"country": "Slovenia",
+	"name": "Andrej Komac",
+	"shirt_number": 20,
+	"date_of_birth": "1979-12-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Aviv",
+		"country": "Israel"
+	},
+	"height": 170
+}, {
+	"id": "slovenia_21",
+	"country": "Slovenia",
+	"name": "Dalibor Stevanovic",
+	"shirt_number": 21,
+	"date_of_birth": "1984-09-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arnhem",
+		"country": "Netherlands"
+	},
+	"height": 183
+}, {
+	"id": "slovenia_22",
+	"country": "Slovenia",
+	"name": "Matej Mavric",
+	"shirt_number": 22,
+	"date_of_birth": "1979-01-29",
+	"position": "Defender",
+	"club": {
+		"name": "Koblenz",
+		"country": "Germany"
+	},
+	"height": 186
+}, {
+	"id": "slovenia_23",
+	"country": "Slovenia",
+	"name": "Tim Matavz",
+	"shirt_number": 23,
+	"date_of_birth": "1989-01-13",
+	"position": "Forward",
+	"club": {
+		"name": "Groningen",
+		"country": "Netherlands"
+	},
+	"height": 190
+}, {
+	"id": "south_africa_1",
+	"country": "South_africa",
+	"name": "Moneeb Josephs",
+	"shirt_number": 1,
+	"date_of_birth": "1980-05-19",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Pirates",
+		"country": "South Africa"
+	},
+	"height": 184
+}, {
+	"id": "south_africa_2",
+	"country": "South_africa",
+	"name": "Siboniso Gaxa",
+	"shirt_number": 2,
+	"date_of_birth": "1984-04-06",
+	"position": "Defender",
+	"club": {
+		"name": "Sundowns",
+		"country": "South Africa"
+	},
+	"height": 178
+}, {
+	"id": "south_africa_3",
+	"country": "South_africa",
+	"name": "Tsepo Masilela",
+	"shirt_number": 3,
+	"date_of_birth": "1985-05-05",
+	"position": "Defender",
+	"club": {
+		"name": "Haifa",
+		"country": "Israel"
+	},
+	"height": 174
+}, {
+	"id": "south_africa_4",
+	"country": "South_africa",
+	"name": "Aaron Mokoena",
+	"shirt_number": 4,
+	"date_of_birth": "1980-11-25",
+	"position": "Defender",
+	"club": {
+		"name": "Portsmouth",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "south_africa_5",
+	"country": "South_africa",
+	"name": "Anele Ngcongca",
+	"shirt_number": 5,
+	"date_of_birth": "1987-10-20",
+	"position": "Defender",
+	"club": {
+		"name": "Genk",
+		"country": "Belgium"
+	},
+	"height": 177
+}, {
+	"id": "south_africa_6",
+	"country": "South_africa",
+	"name": "Macbeth Sibaya",
+	"shirt_number": 6,
+	"date_of_birth": "1977-11-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Kazan",
+		"country": "Russia"
+	},
+	"height": 176
+}, {
+	"id": "south_africa_7",
+	"country": "South_africa",
+	"name": "Lance Davids",
+	"shirt_number": 7,
+	"date_of_birth": "1985-04-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Town",
+		"country": "South Africa"
+	},
+	"height": 171
+}, {
+	"id": "south_africa_8",
+	"country": "South_africa",
+	"name": "Siphiwe Tshabalala",
+	"shirt_number": 8,
+	"date_of_birth": "1984-09-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chiefs",
+		"country": "South Africa"
+	},
+	"height": 170
+}, {
+	"id": "south_africa_9",
+	"country": "South_africa",
+	"name": "Katlego Mphela",
+	"shirt_number": 9,
+	"date_of_birth": "1984-11-29",
+	"position": "Forward",
+	"club": {
+		"name": "Sundowns",
+		"country": "South Africa"
+	},
+	"height": 180
+}, {
+	"id": "south_africa_10",
+	"country": "South_africa",
+	"name": "Steven Pienaar",
+	"shirt_number": 10,
+	"date_of_birth": "1982-03-17",
+	"position": "Midfielder",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 173
+}, {
+	"id": "south_africa_11",
+	"country": "South_africa",
+	"name": "Teko Modise",
+	"shirt_number": 11,
+	"date_of_birth": "1982-12-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Pirates",
+		"country": "South Africa"
+	},
+	"height": 172
+}, {
+	"id": "south_africa_12",
+	"country": "South_africa",
+	"name": "Reneilwe Letsholonyane",
+	"shirt_number": 12,
+	"date_of_birth": "1982-06-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chiefs",
+		"country": "South Africa"
+	},
+	"height": 173
+}, {
+	"id": "south_africa_13",
+	"country": "South_africa",
+	"name": "Kagisho Dikgacoi",
+	"shirt_number": 13,
+	"date_of_birth": "1984-11-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Fulham",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "south_africa_14",
+	"country": "South_africa",
+	"name": "Matthew Booth",
+	"shirt_number": 14,
+	"date_of_birth": "1977-03-14",
+	"position": "Defender",
+	"club": {
+		"name": "Sundowns",
+		"country": "South Africa"
+	},
+	"height": 198
+}, {
+	"id": "south_africa_15",
+	"country": "South_africa",
+	"name": "Lucas Thwala",
+	"shirt_number": 15,
+	"date_of_birth": "1981-10-19",
+	"position": "Defender",
+	"club": {
+		"name": "Pirates",
+		"country": "South Africa"
+	},
+	"height": 170
+}, {
+	"id": "south_africa_16",
+	"country": "South_africa",
+	"name": "Itumeleng Khune",
+	"shirt_number": 16,
+	"date_of_birth": "1987-06-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Chiefs",
+		"country": "South Africa"
+	},
+	"height": 180
+}, {
+	"id": "south_africa_17",
+	"country": "South_africa",
+	"name": "Bernard Parker",
+	"shirt_number": 17,
+	"date_of_birth": "1986-03-16",
+	"position": "Forward",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 172
+}, {
+	"id": "south_africa_18",
+	"country": "South_africa",
+	"name": "Siyabonga Nomvethe",
+	"shirt_number": 18,
+	"date_of_birth": "1977-12-02",
+	"position": "Forward",
+	"club": {
+		"name": "Swallows",
+		"country": "South Africa"
+	},
+	"height": 173
+}, {
+	"id": "south_africa_19",
+	"country": "South_africa",
+	"name": "Surprise Moriri",
+	"shirt_number": 19,
+	"date_of_birth": "1980-03-20",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sundowns",
+		"country": "South Africa"
+	},
+	"height": 173
+}, {
+	"id": "south_africa_20",
+	"country": "South_africa",
+	"name": "Bongani Khumalo",
+	"shirt_number": 20,
+	"date_of_birth": "1987-01-06",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "South Africa"
+	},
+	"height": 184
+}, {
+	"id": "south_africa_21",
+	"country": "South_africa",
+	"name": "Siyabonga Sangweni",
+	"shirt_number": 21,
+	"date_of_birth": "1981-09-29",
+	"position": "Defender",
+	"club": {
+		"name": "Arrows",
+		"country": "South Africa"
+	},
+	"height": 182
+}, {
+	"id": "south_africa_22",
+	"country": "South_africa",
+	"name": "Shu-aib Walters",
+	"shirt_number": 22,
+	"date_of_birth": "1981-12-26",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Utd",
+		"country": "South Africa"
+	},
+	"height": 188
+}, {
+	"id": "south_africa_23",
+	"country": "South_africa",
+	"name": "Thanduyise Khuboni",
+	"shirt_number": 23,
+	"date_of_birth": "1986-05-23",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arrows",
+		"country": "South Africa"
+	},
+	"height": 181
+}, {
+	"id": "spain_1",
+	"country": "Spain",
+	"name": "Iker Casillas",
+	"shirt_number": 1,
+	"date_of_birth": "1981-05-20",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 184
+}, {
+	"id": "spain_2",
+	"country": "Spain",
+	"name": "Raul Albiol",
+	"shirt_number": 2,
+	"date_of_birth": "1985-09-04",
+	"position": "Defender",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 187
+}, {
+	"id": "spain_3",
+	"country": "Spain",
+	"name": "Gerard Pique",
+	"shirt_number": 3,
+	"date_of_birth": "1987-02-02",
+	"position": "Defender",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 192
+}, {
+	"id": "spain_4",
+	"country": "Spain",
+	"name": "Carlos Marchena",
+	"shirt_number": 4,
+	"date_of_birth": "1979-07-31",
+	"position": "Defender",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 182
+}, {
+	"id": "spain_5",
+	"country": "Spain",
+	"name": "Carles Puyol",
+	"shirt_number": 5,
+	"date_of_birth": "1978-04-13",
+	"position": "Defender",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 178
+}, {
+	"id": "spain_6",
+	"country": "Spain",
+	"name": "Andres Iniesta",
+	"shirt_number": 6,
+	"date_of_birth": "1984-05-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "spain_7",
+	"country": "Spain",
+	"name": "David Villa",
+	"shirt_number": 7,
+	"date_of_birth": "1981-12-03",
+	"position": "Forward",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 175
+}, {
+	"id": "spain_8",
+	"country": "Spain",
+	"name": "Xavi",
+	"shirt_number": 8,
+	"date_of_birth": "1980-01-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 170
+}, {
+	"id": "spain_9",
+	"country": "Spain",
+	"name": "Fernando Torres",
+	"shirt_number": 9,
+	"date_of_birth": "1984-03-20",
+	"position": "Forward",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 181
+}, {
+	"id": "spain_10",
+	"country": "Spain",
+	"name": "Cesc Fabregas",
+	"shirt_number": 10,
+	"date_of_birth": "1987-05-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Arsenal",
+		"country": "England"
+	},
+	"height": 175
+}, {
+	"id": "spain_11",
+	"country": "Spain",
+	"name": "Joan Capdevila",
+	"shirt_number": 11,
+	"date_of_birth": "1978-02-03",
+	"position": "Defender",
+	"club": {
+		"name": "Villarreal",
+		"country": "Spain"
+	},
+	"height": 182
+}, {
+	"id": "spain_12",
+	"country": "Spain",
+	"name": "Victor Valdes",
+	"shirt_number": 12,
+	"date_of_birth": "1982-01-14",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "spain_13",
+	"country": "Spain",
+	"name": "Juan Manuel Mata",
+	"shirt_number": 13,
+	"date_of_birth": "1988-04-28",
+	"position": "Forward",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 174
+}, {
+	"id": "spain_14",
+	"country": "Spain",
+	"name": "Xabi Alonso",
+	"shirt_number": 14,
+	"date_of_birth": "1981-11-25",
+	"position": "Midfielder",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "spain_15",
+	"country": "Spain",
+	"name": "Sergio Ramos",
+	"shirt_number": 15,
+	"date_of_birth": "1986-03-30",
+	"position": "Defender",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 183
+}, {
+	"id": "spain_16",
+	"country": "Spain",
+	"name": "Sergio Busquets",
+	"shirt_number": 16,
+	"date_of_birth": "1988-07-16",
+	"position": "Midfielder",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 189
+}, {
+	"id": "spain_17",
+	"country": "Spain",
+	"name": "Alvaro Arbeloa",
+	"shirt_number": 17,
+	"date_of_birth": "1983-01-17",
+	"position": "Defender",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 184
+}, {
+	"id": "spain_18",
+	"country": "Spain",
+	"name": "Pedro",
+	"shirt_number": 18,
+	"date_of_birth": "1987-07-28",
+	"position": "Forward",
+	"club": {
+		"name": "Barcelona",
+		"country": "Spain"
+	},
+	"height": 169
+}, {
+	"id": "spain_19",
+	"country": "Spain",
+	"name": "Fernando Llorente",
+	"shirt_number": 19,
+	"date_of_birth": "1985-02-26",
+	"position": "Forward",
+	"club": {
+		"name": "Bilbao",
+		"country": "Spain"
+	},
+	"height": 194
+}, {
+	"id": "spain_20",
+	"country": "Spain",
+	"name": "Javier Martinez",
+	"shirt_number": 20,
+	"date_of_birth": "1988-09-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Bilbao",
+		"country": "Spain"
+	},
+	"height": 190
+}, {
+	"id": "spain_21",
+	"country": "Spain",
+	"name": "David Silva",
+	"shirt_number": 21,
+	"date_of_birth": "1986-01-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 177
+}, {
+	"id": "spain_22",
+	"country": "Spain",
+	"name": "Jesus Navas",
+	"shirt_number": 22,
+	"date_of_birth": "1985-11-21",
+	"position": "Forward",
+	"club": {
+		"name": "FC",
+		"country": "Spain"
+	},
+	"height": 172
+}, {
+	"id": "spain_23",
+	"country": "Spain",
+	"name": "Pepe Reina",
+	"shirt_number": 23,
+	"date_of_birth": "1982-08-31",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Liverpool",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "switzerland_1",
+	"country": "Switzerland",
+	"name": "Diego Benaglio",
+	"shirt_number": 1,
+	"date_of_birth": "1983-09-08",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Wolfsburg",
+		"country": "Germany"
+	},
+	"height": 193
+}, {
+	"id": "switzerland_2",
+	"country": "Switzerland",
+	"name": "Stephan Lichtsteiner",
+	"shirt_number": 2,
+	"date_of_birth": "1984-01-16",
+	"position": "Defender",
+	"club": {
+		"name": "Lazio",
+		"country": "Italy"
+	},
+	"height": 180
+}, {
+	"id": "switzerland_3",
+	"country": "Switzerland",
+	"name": "Ludovic Magnin",
+	"shirt_number": 3,
+	"date_of_birth": "1979-04-20",
+	"position": "Defender",
+	"club": {
+		"name": "Zurich",
+		"country": "Switzerland"
+	},
+	"height": 186
+}, {
+	"id": "switzerland_4",
+	"country": "Switzerland",
+	"name": "Philippe Senderos",
+	"shirt_number": 4,
+	"date_of_birth": "1985-02-14",
+	"position": "Defender",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 190
+}, {
+	"id": "switzerland_5",
+	"country": "Switzerland",
+	"name": "Steve Von Bergen",
+	"shirt_number": 5,
+	"date_of_birth": "1983-06-10",
+	"position": "Defender",
+	"club": {
+		"name": "Berlin",
+		"country": "Germany"
+	},
+	"height": 183
+}, {
+	"id": "switzerland_6",
+	"country": "Switzerland",
+	"name": "Benjamin Huggel",
+	"shirt_number": 6,
+	"date_of_birth": "1977-07-07",
+	"position": "Midfielder",
+	"club": {
+		"name": "Basel",
+		"country": "Switzerland"
+	},
+	"height": 190
+}, {
+	"id": "switzerland_7",
+	"country": "Switzerland",
+	"name": "Tranquillo Barnetta",
+	"shirt_number": 7,
+	"date_of_birth": "1985-05-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "switzerland_8",
+	"country": "Switzerland",
+	"name": "Gokhan Inler",
+	"shirt_number": 8,
+	"date_of_birth": "1984-06-27",
+	"position": "Midfielder",
+	"club": {
+		"name": "Udinese",
+		"country": "Italy"
+	},
+	"height": 183
+}, {
+	"id": "switzerland_9",
+	"country": "Switzerland",
+	"name": "Alexander Frei",
+	"shirt_number": 9,
+	"date_of_birth": "1979-07-15",
+	"position": "Forward",
+	"club": {
+		"name": "Basel",
+		"country": "Switzerland"
+	},
+	"height": 180
+}, {
+	"id": "switzerland_10",
+	"country": "Switzerland",
+	"name": "Blaise Nkufo",
+	"shirt_number": 10,
+	"date_of_birth": "1975-05-25",
+	"position": "Forward",
+	"club": {
+		"name": "Enschede",
+		"country": "Netherlands"
+	},
+	"height": 186
+}, {
+	"id": "switzerland_11",
+	"country": "Switzerland",
+	"name": "Valon Behrami",
+	"shirt_number": 11,
+	"date_of_birth": "1985-04-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 184
+}, {
+	"id": "switzerland_12",
+	"country": "Switzerland",
+	"name": "Marco Woelfli",
+	"shirt_number": 12,
+	"date_of_birth": "1982-08-22",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Boys",
+		"country": "Switzerland"
+	},
+	"height": 185
+}, {
+	"id": "switzerland_13",
+	"country": "Switzerland",
+	"name": "Stephane Grichting",
+	"shirt_number": 13,
+	"date_of_birth": "1979-03-30",
+	"position": "Defender",
+	"club": {
+		"name": "Auxerre",
+		"country": "France"
+	},
+	"height": 186
+}, {
+	"id": "switzerland_14",
+	"country": "Switzerland",
+	"name": "Marco Padalino",
+	"shirt_number": 14,
+	"date_of_birth": "1983-12-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Sampdoria",
+		"country": "Italy"
+	},
+	"height": 177
+}, {
+	"id": "switzerland_15",
+	"country": "Switzerland",
+	"name": "Hakan Yakin",
+	"shirt_number": 15,
+	"date_of_birth": "1977-02-22",
+	"position": "Midfielder",
+	"club": {
+		"name": "Lucerne",
+		"country": "Switzerland"
+	},
+	"height": 180
+}, {
+	"id": "switzerland_16",
+	"country": "Switzerland",
+	"name": "Gelson Fernandes",
+	"shirt_number": 16,
+	"date_of_birth": "1986-09-02",
+	"position": "Midfielder",
+	"club": {
+		"name": "Etienne",
+		"country": "France"
+	},
+	"height": 183
+}, {
+	"id": "switzerland_17",
+	"country": "Switzerland",
+	"name": "Reto Ziegler",
+	"shirt_number": 17,
+	"date_of_birth": "1986-01-16",
+	"position": "Defender",
+	"club": {
+		"name": "Sampdoria",
+		"country": "Italy"
+	},
+	"height": 183
+}, {
+	"id": "switzerland_18",
+	"country": "Switzerland",
+	"name": "Albert Bunjaku",
+	"shirt_number": 18,
+	"date_of_birth": "1983-11-29",
+	"position": "Forward",
+	"club": {
+		"name": "Nuremberg",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "switzerland_19",
+	"country": "Switzerland",
+	"name": "Eren Derdiyok",
+	"shirt_number": 19,
+	"date_of_birth": "1988-06-12",
+	"position": "Forward",
+	"club": {
+		"name": "Leverkusen",
+		"country": "Germany"
+	},
+	"height": 190
+}, {
+	"id": "switzerland_20",
+	"country": "Switzerland",
+	"name": "Pirmin Schwegler",
+	"shirt_number": 20,
+	"date_of_birth": "1987-03-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Frankfurt",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "switzerland_21",
+	"country": "Switzerland",
+	"name": "Johnny Leoni",
+	"shirt_number": 21,
+	"date_of_birth": "1984-06-30",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Zurich",
+		"country": "Switzerland"
+	},
+	"height": 189
+}, {
+	"id": "switzerland_22",
+	"country": "Switzerland",
+	"name": "Mario Eggimann",
+	"shirt_number": 22,
+	"date_of_birth": "1981-01-24",
+	"position": "Defender",
+	"club": {
+		"name": "96",
+		"country": "Germany"
+	},
+	"height": 184
+}, {
+	"id": "switzerland_23",
+	"country": "Switzerland",
+	"name": "Xherdan Shaqiri",
+	"shirt_number": 23,
+	"date_of_birth": "1991-10-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "Basel",
+		"country": "Switzerland"
+	},
+	"height": 169
+}, {
+	"id": "uruguay_1",
+	"country": "Uruguay",
+	"name": "Fernando Muslera",
+	"shirt_number": 1,
+	"date_of_birth": "1986-06-16",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Lazio",
+		"country": "Italy"
+	},
+	"height": 190
+}, {
+	"id": "uruguay_2",
+	"country": "Uruguay",
+	"name": "Diego Lugano",
+	"shirt_number": 2,
+	"date_of_birth": "1980-11-02",
+	"position": "Defender",
+	"club": {
+		"name": "Fenerbahce",
+		"country": "Turkey"
+	},
+	"height": 188
+}, {
+	"id": "uruguay_3",
+	"country": "Uruguay",
+	"name": "Diego Godin",
+	"shirt_number": 3,
+	"date_of_birth": "1986-02-16",
+	"position": "Defender",
+	"club": {
+		"name": "Villarreal",
+		"country": "Spain"
+	},
+	"height": 185
+}, {
+	"id": "uruguay_4",
+	"country": "Uruguay",
+	"name": "Jorge Fucile",
+	"shirt_number": 4,
+	"date_of_birth": "1984-11-19",
+	"position": "Defender",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 177
+}, {
+	"id": "uruguay_5",
+	"country": "Uruguay",
+	"name": "Walter Gargano",
+	"shirt_number": 5,
+	"date_of_birth": "1984-07-23",
+	"position": "Midfielder",
+	"club": {
+		"name": "Napoli",
+		"country": "Italy"
+	},
+	"height": 168
+}, {
+	"id": "uruguay_6",
+	"country": "Uruguay",
+	"name": "Mauricio Victorino",
+	"shirt_number": 6,
+	"date_of_birth": "1982-10-11",
+	"position": "Defender",
+	"club": {
+		"name": "Chile",
+		"country": "Chile"
+	},
+	"height": 182
+}, {
+	"id": "uruguay_7",
+	"country": "Uruguay",
+	"name": "Edinson Cavani",
+	"shirt_number": 7,
+	"date_of_birth": "1987-02-14",
+	"position": "Forward",
+	"club": {
+		"name": "Palermo",
+		"country": "Italy"
+	},
+	"height": 188
+}, {
+	"id": "uruguay_8",
+	"country": "Uruguay",
+	"name": "Sebastian Eguren",
+	"shirt_number": 8,
+	"date_of_birth": "1981-01-08",
+	"position": "Midfielder",
+	"club": {
+		"name": "Stockholm",
+		"country": "Sweden"
+	},
+	"height": 186
+}, {
+	"id": "uruguay_9",
+	"country": "Uruguay",
+	"name": "Luis Suarez",
+	"shirt_number": 9,
+	"date_of_birth": "1987-01-24",
+	"position": "Forward",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 181
+}, {
+	"id": "uruguay_10",
+	"country": "Uruguay",
+	"name": "Diego Forlan",
+	"shirt_number": 10,
+	"date_of_birth": "1979-05-19",
+	"position": "Forward",
+	"club": {
+		"name": "Madrid",
+		"country": "Spain"
+	},
+	"height": 181
+}, {
+	"id": "uruguay_11",
+	"country": "Uruguay",
+	"name": "Alvaro Pereira",
+	"shirt_number": 11,
+	"date_of_birth": "1985-11-28",
+	"position": "Midfielder",
+	"club": {
+		"name": "Porto",
+		"country": "Portugal"
+	},
+	"height": 182
+}, {
+	"id": "uruguay_12",
+	"country": "Uruguay",
+	"name": "Juan Castillo",
+	"shirt_number": 12,
+	"date_of_birth": "1978-04-17",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Cali",
+		"country": "Colombia"
+	},
+	"height": 181
+}, {
+	"id": "uruguay_13",
+	"country": "Uruguay",
+	"name": "Sebastian Abreu",
+	"shirt_number": 13,
+	"date_of_birth": "1976-10-17",
+	"position": "Forward",
+	"club": {
+		"name": "Botafogo",
+		"country": "Brazil"
+	},
+	"height": 193
+}, {
+	"id": "uruguay_14",
+	"country": "Uruguay",
+	"name": "Nicolas Lodeiro",
+	"shirt_number": 14,
+	"date_of_birth": "1989-03-21",
+	"position": "Midfielder",
+	"club": {
+		"name": "Ajax",
+		"country": "Netherlands"
+	},
+	"height": 173
+}, {
+	"id": "uruguay_15",
+	"country": "Uruguay",
+	"name": "Diego Perez",
+	"shirt_number": 15,
+	"date_of_birth": "1980-05-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Monaco",
+		"country": "France"
+	},
+	"height": 176
+}, {
+	"id": "uruguay_16",
+	"country": "Uruguay",
+	"name": "Maximiliano Pereira",
+	"shirt_number": 16,
+	"date_of_birth": "1984-06-08",
+	"position": "Defender",
+	"club": {
+		"name": "Benfica",
+		"country": "Portugal"
+	},
+	"height": 173
+}, {
+	"id": "uruguay_17",
+	"country": "Uruguay",
+	"name": "Egidio Arevalo",
+	"shirt_number": 17,
+	"date_of_birth": "1982-01-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Penarol",
+		"country": "Uruguay"
+	},
+	"height": 168
+}, {
+	"id": "uruguay_18",
+	"country": "Uruguay",
+	"name": "Ignacio Gonzalez",
+	"shirt_number": 18,
+	"date_of_birth": "1982-05-14",
+	"position": "Midfielder",
+	"club": {
+		"name": "Valencia",
+		"country": "Spain"
+	},
+	"height": 180
+}, {
+	"id": "uruguay_19",
+	"country": "Uruguay",
+	"name": "Andres Scotti",
+	"shirt_number": 19,
+	"date_of_birth": "1975-12-14",
+	"position": "Defender",
+	"club": {
+		"name": "Colo",
+		"country": "Chile"
+	},
+	"height": 183
+}, {
+	"id": "uruguay_20",
+	"country": "Uruguay",
+	"name": "Alvaro Fernandez",
+	"shirt_number": 20,
+	"date_of_birth": "1985-10-11",
+	"position": "Midfielder",
+	"club": {
+		"name": "Chile",
+		"country": "Chile"
+	},
+	"height": 185
+}, {
+	"id": "uruguay_21",
+	"country": "Uruguay",
+	"name": "Sebastian Fernandez",
+	"shirt_number": 21,
+	"date_of_birth": "1985-05-23",
+	"position": "Forward",
+	"club": {
+		"name": "Banfield",
+		"country": "Argentina"
+	},
+	"height": 167
+}, {
+	"id": "uruguay_22",
+	"country": "Uruguay",
+	"name": "Martin Caceres",
+	"shirt_number": 22,
+	"date_of_birth": "1987-04-07",
+	"position": "Defender",
+	"club": {
+		"name": "Juventus",
+		"country": "Italy"
+	},
+	"height": 178
+}, {
+	"id": "uruguay_23",
+	"country": "Uruguay",
+	"name": "Martin Silva",
+	"shirt_number": 23,
+	"date_of_birth": "1983-03-25",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Sporting",
+		"country": "Uruguay"
+	},
+	"height": 187
+}, {
+	"id": "usa_1",
+	"country": "Usa",
+	"name": "Tim Howard",
+	"shirt_number": 1,
+	"date_of_birth": "1979-03-06",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Everton",
+		"country": "England"
+	},
+	"height": 187
+}, {
+	"id": "usa_2",
+	"country": "Usa",
+	"name": "Jonathan Spector",
+	"shirt_number": 2,
+	"date_of_birth": "1986-03-01",
+	"position": "Defender",
+	"club": {
+		"name": "Utd",
+		"country": "England"
+	},
+	"height": 183
+}, {
+	"id": "usa_3",
+	"country": "Usa",
+	"name": "Carlos Bocanegra",
+	"shirt_number": 3,
+	"date_of_birth": "1979-05-25",
+	"position": "Defender",
+	"club": {
+		"name": "Rennes",
+		"country": "France"
+	},
+	"height": 184
+}, {
+	"id": "usa_4",
+	"country": "Usa",
+	"name": "Michael Bradley",
+	"shirt_number": 4,
+	"date_of_birth": "1987-07-31",
+	"position": "Midfielder",
+	"club": {
+		"name": "Moenchengladbach",
+		"country": "Germany"
+	},
+	"height": 185
+}, {
+	"id": "usa_5",
+	"country": "Usa",
+	"name": "Oguchi Onyewu",
+	"shirt_number": 5,
+	"date_of_birth": "1982-05-13",
+	"position": "Defender",
+	"club": {
+		"name": "Milan",
+		"country": "Italy"
+	},
+	"height": 192
+}, {
+	"id": "usa_6",
+	"country": "Usa",
+	"name": "Steve Cherundolo",
+	"shirt_number": 6,
+	"date_of_birth": "1979-02-19",
+	"position": "Defender",
+	"club": {
+		"name": "96",
+		"country": "Germany"
+	},
+	"height": 168
+}, {
+	"id": "usa_7",
+	"country": "Usa",
+	"name": "Damarcus Beasley",
+	"shirt_number": 7,
+	"date_of_birth": "1982-05-24",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rangers",
+		"country": "Scotland"
+	},
+	"height": 170
+}, {
+	"id": "usa_8",
+	"country": "Usa",
+	"name": "Clint Dempsey",
+	"shirt_number": 8,
+	"date_of_birth": "1983-03-09",
+	"position": "Midfielder",
+	"club": {
+		"name": "Fulham",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "usa_9",
+	"country": "Usa",
+	"name": "Herculez Gomez",
+	"shirt_number": 9,
+	"date_of_birth": "1982-04-06",
+	"position": "Forward",
+	"club": {
+		"name": "Puebla",
+		"country": "Mexico"
+	},
+	"height": 178
+}, {
+	"id": "usa_10",
+	"country": "Usa",
+	"name": "Landon Donovan",
+	"shirt_number": 10,
+	"date_of_birth": "1982-03-04",
+	"position": "Midfielder",
+	"club": {
+		"name": "Galaxy",
+		"country": "United States"
+	},
+	"height": 173
+}, {
+	"id": "usa_11",
+	"country": "Usa",
+	"name": "Stuart Holden",
+	"shirt_number": 11,
+	"date_of_birth": "1985-08-01",
+	"position": "Midfielder",
+	"club": {
+		"name": "Wanderers",
+		"country": "England"
+	},
+	"height": 178
+}, {
+	"id": "usa_12",
+	"country": "Usa",
+	"name": "Jonathan Bornstein",
+	"shirt_number": 12,
+	"date_of_birth": "1984-11-07",
+	"position": "Defender",
+	"club": {
+		"name": "USA",
+		"country": "United States"
+	},
+	"height": 175
+}, {
+	"id": "usa_13",
+	"country": "Usa",
+	"name": "Ricardo Clark",
+	"shirt_number": 13,
+	"date_of_birth": "1983-02-10",
+	"position": "Midfielder",
+	"club": {
+		"name": "Frankfurt",
+		"country": "Germany"
+	},
+	"height": 178
+}, {
+	"id": "usa_14",
+	"country": "Usa",
+	"name": "Edson Buddle",
+	"shirt_number": 14,
+	"date_of_birth": "1981-05-21",
+	"position": "Forward",
+	"club": {
+		"name": "Galaxy",
+		"country": "United States"
+	},
+	"height": 185
+}, {
+	"id": "usa_15",
+	"country": "Usa",
+	"name": "Jay Demerit",
+	"shirt_number": 15,
+	"date_of_birth": "1979-12-04",
+	"position": "Defender",
+	"club": {
+		"name": "Watford",
+		"country": "England"
+	},
+	"height": 180
+}, {
+	"id": "usa_16",
+	"country": "Usa",
+	"name": "Francisco Torres",
+	"shirt_number": 16,
+	"date_of_birth": "1987-10-29",
+	"position": "Midfielder",
+	"club": {
+		"name": "Pachuca",
+		"country": "Mexico"
+	},
+	"height": 168
+}, {
+	"id": "usa_17",
+	"country": "Usa",
+	"name": "Jozy Altidore",
+	"shirt_number": 17,
+	"date_of_birth": "1989-11-06",
+	"position": "Forward",
+	"club": {
+		"name": "City",
+		"country": "England"
+	},
+	"height": 185
+}, {
+	"id": "usa_18",
+	"country": "Usa",
+	"name": "Brad Guzan",
+	"shirt_number": 18,
+	"date_of_birth": "1984-09-09",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Villa",
+		"country": "England"
+	},
+	"height": 193
+}, {
+	"id": "usa_19",
+	"country": "Usa",
+	"name": "Maurice Edu",
+	"shirt_number": 19,
+	"date_of_birth": "1986-04-18",
+	"position": "Midfielder",
+	"club": {
+		"name": "Rangers",
+		"country": "Scotland"
+	},
+	"height": 183
+}, {
+	"id": "usa_20",
+	"country": "Usa",
+	"name": "Robbie Findley",
+	"shirt_number": 20,
+	"date_of_birth": "1985-08-04",
+	"position": "Forward",
+	"club": {
+		"name": "Lake",
+		"country": "United States"
+	},
+	"height": 175
+}, {
+	"id": "usa_21",
+	"country": "Usa",
+	"name": "Clarence Goodson",
+	"shirt_number": 21,
+	"date_of_birth": "1982-05-17",
+	"position": "Defender",
+	"club": {
+		"name": "Start",
+		"country": "Norway"
+	},
+	"height": 193
+}, {
+	"id": "usa_22",
+	"country": "Usa",
+	"name": "Benny Feilhaber",
+	"shirt_number": 22,
+	"date_of_birth": "1985-01-19",
+	"position": "Midfielder",
+	"club": {
+		"name": "Aarhus",
+		"country": "Denmark"
+	},
+	"height": 175
+}, {
+	"id": "usa_23",
+	"country": "Usa",
+	"name": "Marcus Hahnemann",
+	"shirt_number": 23,
+	"date_of_birth": "1972-06-15",
+	"position": "Goalkeeper",
+	"club": {
+		"name": "Wolverhampton",
+		"country": "England"
+	},
+	"height": 192
+}]

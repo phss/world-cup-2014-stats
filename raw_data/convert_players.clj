@@ -60,4 +60,4 @@
 
 (def players (mapcat convert-country raw-country-files))
 
-(println (count players))
+(println (json/write-str players))
